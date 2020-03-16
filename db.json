@@ -1,0 +1,3846 @@
+{
+"Cancer": [
+{
+"_id": "57dfe03a13e4c571530004ba",
+"children": [
+{
+"_id": "57dfe03a13e4c571530004bb",
+"citool_id": "57dfe03a13e4c571530004ba",
+"citool_income": "No",
+"claim_value": "15% or maximum R100 000",
+"event_definitions": "\r\n                       <p>\r\n                          Any lesion histologically confirmed to be a carcinoma in-situ (cancer which confined to the surface and has not invaded the organ of origin) and that is classified as (Tis) by the latest American Joint Committee on Cancer staging manual.\r\n                        </p>\r\n                        <span class=\"gray-text\">The following cancers are excluded:</span>\r\n                        <ul>\r\n                          <li>All tumours which are histologically described as dysplasia, pre-malignant, borderline, low malignant potential or intraepithelial neoplasia; </li>\r\n                          <li>Carcinoma in-situ of the skin;</li>\r\n                          <li>Melanoma in-situ;</li>\r\n                          <li>Carcinoma in-situ of the prostate.</li>\r\n                        </ul>\r\n                        <p>The diagnosis must be confirmed with a histological pathology report from a specialist.</p>\r\n                        <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "early-cancers",
+"position": null,
+"top_up": "15% or maximum R100 000"
+},
+{
+"_id": "57dfe03a13e4c571530004bc",
+"citool_id": "57dfe03a13e4c571530004ba",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Confirmed Myeloproliferative, Myelodysplastic or Myelofibrosis disorder that scores 3 or more in the latest International Prognostic Scoring System (IPSS).</p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "early-cancers",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfe03a13e4c571530004bd",
+"citool_id": "57dfe03a13e4c571530004ba",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Definitive diagnosis of Neuroendocrine Tumour (Carcinoid tumor) as described by a pathologist and treated by actual undergoing of surgical excision of the tumour.</p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "early-cancers",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Early Cancers",
+"parent_name": "Cancer",
+"parent_position": 1,
+"position": 1
+},
+{
+"_id": "57dfe03a13e4c571530004be",
+"children": [
+{
+"_id": "57dfe03a13e4c571530004bf",
+"citool_id": "57dfe03a13e4c571530004be",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>Any skin lesion histologically confirmed to be a basal cell carcinoma or a squamous cell carcinoma that measures more than 1,75cm across the lesion.</p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "minor-skin-cancer",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Minor Skin Cancer",
+"parent_name": "Cancer",
+"parent_position": 1,
+"position": 2
+},
+{
+"_id": "57dfe0fb13e4c571530004c6",
+"children": [
+{
+"_id": "57dfe0fb13e4c571530004c8",
+"citool_id": "57dfe0fb13e4c571530004c6",
+"citool_income": "Yes",
+"claim_value": "25%",
+"event_definitions": "\r\n                        <p>Level D</p>\r\n                        <p>The above definition of cancer must be met and classified as either:</p>\r\n                         <ul>\r\n                           <li>Stage I cancer by the latest American Joint Committee on Cancer staging manual for any malignant tumour except prostate, brain, leukemia, multiple myeloma, <br>or lymphoma; <br>or Prostate cancer that is classified as T1a, T1b, T1c <br>or T2, by the latest American Joint Committee on Cancer staging manual, without lymph node <br>or distant metastasis; or</li>\r\n                           <li>Hairy cell leukaemia; or</li>\r\n                           <li>Chronic Lymphocytic Leukaemia (Rai Stage 0 or 1); or</li>\r\n                           <li>Ann Arbor Stage 1 Hodgkin's or Non-Hodgkin's lymphoma; or</li>\r\n                           <li>World Health Organization (WHO) Grade II brain tumour without permanent neurological deficit; or</li>\r\n                           <li>Ductal carcinoma in-situ of the breast treated with mastectomy. Ductal carcinoma in-situ of the breast treated with lumpectomy or quadrectomy is not covered under this definition.</li>\r\n                           <p>Exclusion: Lumpectomy and Quadrectomy of the breast</p>\r\n                         </ul>\r\n                     ",
+"parent_name": "cancer",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfe0fb13e4c571530004c9",
+"citool_id": "57dfe0fb13e4c571530004c6",
+"citool_income": "Yes",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>Level C</p>\r\n                       <p>The above definition of cancer must be met and classified as either:</p>\r\n                       <ul>\r\n                         <li>Stage II cancer by the latest American Joint Committee on Cancer staging manual for any malignant tumour except prostate, brain, leukemia, multiple myeloma, or lymphoma; or</li>\r\n                         <li>Ann Arbor Stage 2 Hodgkin's or Non-Hodgkin's Lymphoma; or</li>\r\n                         <li>Chronic Lymphocytic Leukaemia (CLL) Rai Stage 2 ; or</li>\r\n                         <li>Prostate cancer that is classified as T3 by the latest American Joint Committee on Cancer staging manual, without lymph node or distant metastasis; or</li>\r\n                         <li>Multiple myeloma Stage I or II on the Durie-Salmon scale</li>\r\n                         <li>Any malignant solid tumour meeting the above definition of Cancer, that is not staged by the latest American Joint Committee on Cancer staging manual, that is localized without lymph node or distant metastasis.</li>\r\n                       </ul>\r\n                     ",
+"parent_name": "cancer",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfe0fb13e4c571530004ca",
+"citool_id": "57dfe0fb13e4c571530004c6",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                      <p>Level A</p>\r\n                       <p>The above definition of cancer must be met and classified as either:</p>\r\n                       <ul>\r\n                         <li>Stage III or IV cancer by the latest American Joint Committee on Cancer staging manual for any malignant tumour except prostate, brain, leukemia, multiple myeloma, or lymphoma; or</li>\r\n                         <li>Chronic Lymphocytic Leukaemia (CLL) Rai Stage 3 or 4; or</li>\r\n                         <li>Prostate cancer that is classified as T4 by the latest AJCC staging manual, without lymph node or distant metastasis; or</li>\r\n                         <li>Prostate cancer with either lymph node involvement or distant metastasis; or</li>\r\n                         <li>Ann Arbor Stage III or IV Hodgkin's or Non-Hodgkin's lymphoma; or</li>\r\n                         <li>Acute Myeloid Leukaemia (AML); or</li>\r\n                         <li>Chronic Myeloid Leukaemia (CML); or</li>\r\n                         <li>Acute Lymphocytic Leukaemia (ALL); or</li>\r\n                         <li>Malignant brain tumours that are World Health Organization (WHO) Grade III and IV; or</li>\r\n                         <li>Ann Arbor Stage 3 or 4 Hodgkin's or Non-Hodgkin's Lymphoma; or</li>\r\n                         <li>Multiple Myeloma Stage III on the Durie-Salmon Scale</li>\r\n                         <li>Any malignant solid tumour meeting the above definition of Cancer, that is not staged by the latest American Joint Committee on Cancer staging manual that has spread to lymph nodes or distant metastasis.</li>\r\n                       </ul>\r\n                     ",
+"parent_name": "cancer",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfe2b913e4c5be89000001",
+"citool_id": "57dfe0fb13e4c571530004c6",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">NOTE: \"Cancer\" means the presence of a tumour characterised by uncontrolled growth and spread of malignant cells and the invasion and destruction of normal tissue. The diagnosis must be confirmed by a histology report from an accredited pathology laboratory.</p>\r\n                       <span class=\"gray-text\"><em>The following are excluded:</em></span>\r\n                       <ul>\r\n                         <li>All tumours which are histologically described as benign, pre-malignant, borderline malignant, low malignant potential, or non-invasive;</li>\r\n                         <li>All tumours classified as carcinoma in-situ, except ductal breast carcinoma in-situ treated with mastectomy;</li>\r\n                         <li>Cervical dysplasia or intra-epithelial neoplasia (CIN);</li>\r\n                         <li>Prostatic Intra-epithelial Neoplasia (PIN);</li>\r\n                         <li>Thyroid tumour stage T1 by the latest American Joint Committee on Cancer staging manual without lymph node or distant metastasis;</li>\r\n                         <li>Bladder tumour stage Ta by the latest American Joint Committee on Cancer staging manual without lymph node or distant metastasis;</li>\r\n                         <li>All non-melanoma skin cancers;</li>\r\n                         <li>Thin Melanomas with pathology report showing Clark's Level less than III or Breslow thickness less than 1.0 mm;</li>\r\n                       </ul>\r\n                       <p>The payout levels depend on the type and stage of cancer as defined in the following table:</p>\r\n                     ",
+"parent_name": "cancer",
+"position": null,
+"top_up": ""
+}
+],
+"definition": "<p class=\"red-unbolded\">NOTE: \"Cancer\" means the presence of a tumour characterised by uncontrolled growth and spread of malignant cells and the invasion and destruction of normal tissue. The diagnosis must be confirmed by a histology report from an accredited pathology laboratory.</p>\r\n                   <span class=\"gray-text\"><em>The following are excluded:</em></span>\r\n                   <ul>\r\n                     <li>All tumours which are histologically described as benign, pre-malignant, borderline malignant, low malignant potential, or non-invasive;</li>\r\n                     <li>All tumours classified as carcinoma in-situ, except ductal breast carcinoma in-situ treated with mastectomy;</li>\r\n                     <li>Cervical dysplasia or intra-epithelial neoplasia (CIN);</li>\r\n                     <li>Prostatic Intra-epithelial Neoplasia (PIN);</li>\r\n                     <li>Thyroid tumour stage T1 by the latest American Joint Committee on Cancer staging manual without lymph node or distant metastasis;</li>\r\n                     <li>Bladder tumour stage Ta by the latest American Joint Committee on Cancer staging manual without lymph node or distant metastasis;</li>\r\n                     <li>All non-melanoma skin cancers;</li>\r\n                     <li>Thin Melanomas with pathology report showing Clark's Level less than III or Breslow thickness less than 1.0 mm;</li>\r\n                   </ul>\r\n                   <p>The payout levels depend on the type and stage of cancer as defined in the following table:</p>",
+"name": "Cancer",
+"parent_name": "Cancer",
+"parent_position": 1,
+"position": 3
+},
+{
+"_id": "57dfe03a13e4c571530004c0",
+"children": [
+{
+"_id": "57dfe03a13e4c571530004c1",
+"citool_id": "57dfe03a13e4c571530004c0",
+"citool_income": "No",
+"claim_value": "15% or Maximum R100 000",
+"event_definitions": "\r\n                       <p>The actual undergoing of female breast reconstructive surgery after a mastectomy to treat underlying invasive breast cancer.\r\n\r\n                       This Critical Illness will always be viewed as unrelated to any other claim for cancer.\r\n\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "reconstructive-surgery-after-breast-cancer",
+"position": null,
+"top_up": "15% or Maximum R100 000"
+}
+],
+"definition": "",
+"name": "Reconstructive Surgery After Breast Cancer",
+"parent_name": "Cancer",
+"parent_position": 1,
+"position": 4
+},
+{
+"_id": "57dfe03a13e4c571530004c2",
+"children": [
+{
+"_id": "57dfe03a13e4c571530004c3",
+"citool_id": "57dfe03a13e4c571530004c2",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>Receiving a bone marrow transplant or being on the official South African or International waiting list for the bone marrow transplant.</p>\r\n                     ",
+"parent_name": "bone-marrow-transplant",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Bone Marrow Transplant",
+"parent_name": "Cancer",
+"parent_position": 1,
+"position": 5
+}
+],
+"Aplastic Anaemia": [
+{
+"_id": "57dfe0a413e4c571530004c4",
+"children": [
+{
+"_id": "57dfe0a413e4c571530004c5",
+"citool_id": "57dfe0a413e4c571530004c4",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                        <p>\r\n                          The unequivocal diagnosis of severe aplastic anaemia confirmed with a bone marrow biopsy performed by an appropriate medical specialist. The diagnosis must be supported by evidence of a complete pancytopaenia as well as at least one of the following treatment modalities: \r\n                        </p>\r\n                        <ul>  \r\n                          <li>Marrow stimulating agents</li>\r\n                          <li>Immunosuppressive agents</li>\r\n                          <li>Total body irradiation</li>\r\n                          <li>Bone marrow transplantation.</li>\r\n                        </ul>\r\n                        <p>Exclusion: Non severe aplastic anaemia</p>\r\n                     ",
+"parent_name": "aplastic-anaemia",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Aplastic Anaemia",
+"parent_name": "Aplastic Anaemia",
+"parent_position": 2,
+"position": 6
+}
+],
+"Nervous System": [
+{
+"_id": "57dfd78313e4c57153000328",
+"children": [
+{
+"_id": "57dfd78313e4c57153000329",
+"citool_id": "57dfd78313e4c57153000328",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Deterioration or loss of intellectual capacity as confirmed by clinical evaluation and imaging tests, arising from Alzheimer's disease or irreversible organic disorders, resulting in significant reduction in mental and social functioning as defined in the latest version of the Diagnostic and Statistical Manual. This diagnosis must be supported by the clinical confirmation of a neurologist and supported by FMI Claims department.</p>\r\n                        <p>Exclusions: Non-organic diseases such as neurosis and psychiatric illnesses; and Alcohol related brain damage \r\n                       </p>\r\n                     ",
+"parent_name": "alzheimer-s-disease-dementia",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Alzheimer's Disease / Dementia",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 7
+},
+{
+"_id": "57dfd78313e4c5715300032a",
+"children": [
+{
+"_id": "57dfd78313e4c5715300032b",
+"citool_id": "57dfd78313e4c5715300032a",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        The unequivocal diagnosis of idiopathic Parkinson's Disease by a neurologist. This diagnosis must be supported by both of the following conditions which remain in spite of the insured being on the appropriate medication for Parkinson's Disease: \r\n                        <br>\r\n                        </p>\n<ul>\r\n                          <li>The insured has tremor at rest, slow movements with rigidity</li>\r\n                          <li>There are objective signs of progressive deterioration</li>\r\n                        </ul>\r\n                       \r\n                     ",
+"parent_name": "parkinson-s-disease",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Parkinson's Disease",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 8
+},
+{
+"_id": "57dfd78313e4c5715300032c",
+"children": [
+{
+"_id": "57dfd78313e4c5715300032d",
+"citool_id": "57dfd78313e4c5715300032c",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        A definite diagnosis of multiple sclerosis by a consultant neurologist. There must be current clinical impairment of motor or sensory function, which must have persisted for a continuous period of at least six (6) months.\r\n                       </p>\r\n                     ",
+"parent_name": "multiple-sclerosis",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfd78313e4c5715300032e",
+"citool_id": "57dfd78313e4c5715300032c",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        A definitive diagnosis of multiple sclerosis as evidenced by positive Magnetic Resonance Image (MRI) findings. <br>\r\n                        There must also be at least two (2) distinct episodes of multiple sclerosis exacerbations in different neurological areas.\r\n                       </p>\r\n                     ",
+"parent_name": "multiple-sclerosis",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Multiple Sclerosis",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 9
+},
+{
+"_id": "57dfd78313e4c5715300032f",
+"children": [
+{
+"_id": "57dfd78313e4c57153000330",
+"citool_id": "57dfd78313e4c5715300032f",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Motor neuron disease of unknown aetiology is characterised by progressive degeneration of corticospinal tracts and anterior horn cells or bulbar efferent neurones; these include spinal muscular atrophy, progressive bulbar palsy, amyotrophic lateral sclerosis and primary lateral sclerosis. Claims shall only be admitted if the condition is confirmed by a neurologist as progressive and resulting in irreversible damage to the nervous system.\r\n                       </p>\r\n                     ",
+"parent_name": "motor-neuron-disease",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Motor Neuron Disease",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 10
+},
+{
+"_id": "57dfd78313e4c57153000331",
+"children": [
+{
+"_id": "57dfd78313e4c57153000332",
+"citool_id": "57dfd78313e4c57153000331",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed presence of a life threatening benign brain tumour causing permanent functional neurological impairment that is progressively worsening with objective evidence of motor or sensory dysfunction. The presence of the underlying tumour must be confirmed by imaging studies such as a CT scan or Magnetic Resonance Image (MRI). The imaging must show evidence that the tumour is growing.\r\n                        <br>\r\n                       </p>\r\n                       <p>Exclusions: Conditions such as cysts, granulomas, malformations in the arteries or veins of the brain, haematomas, abscesses, acoustic neuroma, and tumours of the pituitary gland, meninges or spinal cord are not covered.</p>\r\n                     ",
+"parent_name": "benign-brain-tumour",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfd78313e4c57153000333",
+"citool_id": "57dfd78313e4c57153000331",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                       Actual undergoing of brain surgery to treat a benign brain tumour. Procedures covered under this definition are limited to:\r\n                       </p>\r\n                       <ul>\r\n                         <li>Debulking or complete excision of benign brain tumours </li>\r\n                         <li>Cerebral cystectomy </li>\r\n                       </ul>\r\n                       <p>Exclusion: Pituitary microadenomas</p>\r\n                     ",
+"parent_name": "benign-brain-tumour",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Benign Brain Tumour",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 11
+},
+{
+"_id": "57dfd78313e4c57153000334",
+"children": [
+{
+"_id": "57dfd78413e4c57153000335",
+"citool_id": "57dfd78313e4c57153000334",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        A coma that persists for at least 96 hours. This diagnosis must be supported by evidence of all of the following: <br>\r\n                        No response to external stimuli for at least 96 hours;<br> \r\n                        Life support measures are necessary to sustain life; and<br> \r\n                        Brain damage resulting in permanent neurological deficit which must be assessed at least 30 days after the onset of the coma. <br>\r\n                        Exclusion: Coma resulting directly from alcohol or drug abuse<br>\r\n                       </p>\r\n                     ",
+"parent_name": "coma",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfd78413e4c57153000336",
+"citool_id": "57dfd78313e4c57153000334",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                       Coma with full recovery and at least a Glasgow Coma scale less than 8/15 lasting longer than 72 hours but less than 96 hours. \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "coma",
+"position": null,
+"top_up": "15%"
+}
+],
+"definition": "",
+"name": "Coma",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 12
+},
+{
+"_id": "57dfd78413e4c57153000337",
+"children": [
+{
+"_id": "57dfd78413e4c57153000338",
+"citool_id": "57dfd78413e4c57153000337",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                       The actual undergoing of major surgery to repair or correct an aneurysm, narrowing, obstruction or dissection of a cerebral artery through surgical opening of the skull. For the purpose of this definition cerebral artery shall mean all intracranial arteries. \r\n                       </p>\r\n                       <p>Exclusions: Surgery performed using only minimally invasive or intra-arterial techniques.</p>\r\n                     ",
+"parent_name": "cerebral-aneurysm",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Cerebral Aneurysm",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 13
+},
+{
+"_id": "57dfd78413e4c57153000339",
+"children": [
+{
+"_id": "57dfd78413e4c5715300033a",
+"citool_id": "57dfd78413e4c57153000339",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: Death of brain tissue due to inadequate blood supply or haemorrhage within the brain tissue resulting in neurological deficit. A neurologist must confirm the diagnosis and objective neuro-imaging investigations including CT or MRI-scans must support it. Any deficit must be of a permanent nature. The clinical symptoms and signs must be compatible with the diagnosis and any neurological deficit must be anatomically compatible with the primary lesion. Severity levels will be assessed by a full neurological examination by a specialist neurologist or neuropsychologist after 3 months. The neurological domains to be assessed include motor, speech, visual, sensory, language and cognition. \r\n                       </p>\r\n                       <p class=\"gray-text\"></p>\r\n                      <ul>\r\n                        <li>Transient ischaemic attack/reversible ischaemic neurological deficit</li>\r\n                        <li>Vascular disease affecting the eye or optic nerve.</li>\r\n                        <li>Cerebral symptoms due to migraine.</li>\r\n                      </ul>\r\n                     ",
+"parent_name": "stroke",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd78413e4c5715300033b",
+"citool_id": "57dfd78413e4c57153000339",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        A cerebrovascular incident that meets the above main definition of Stroke except that the resulting neurological deficits fully recover and are not permanent. The requirement that severity is assessed 3 months after the stroke has occurred also does not apply to this definition. The stroke must be confirmed on clinical grounds with objective neurological deficit being evident on physical examination by a medical doctor at the time of the stroke and this deficit must last more than 24 hours. The stroke must be confirmed by neurological imaging showing proof of anatomically correlated brain tissue damage.\r\n                       </p>\r\n                     ",
+"parent_name": "stroke",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd78413e4c5715300033c",
+"citool_id": "57dfd78413e4c57153000339",
+"citool_income": "Yes",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>\r\n                        Stroke with almost full recovery which presents as minimal residual symptoms or signs, as measured by:\r\n                      </p>\r\n                      <ul>\r\n                        <li>the ability to do all basic and advanced ADL's</li>\r\n                        <li>a WPI &lt; 10% but &gt; 1%</li>\r\n                      </ul>\r\n                     ",
+"parent_name": "stroke",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd78413e4c5715300033d",
+"citool_id": "57dfd78413e4c57153000339",
+"citool_income": "Yes",
+"claim_value": "50%",
+"event_definitions": "\r\n                      <p>\r\n                        Stroke with mild impairment\r\n                      </p>\r\n                      <ul>Can function independently, but has impairment as measured by:\r\n                        <li>the inability to do three (3) or more advanced ADL's</li>\r\n                        <li>a WPI of 11% to 20%.</li>\r\n                      </ul>\r\n                     ",
+"parent_name": "stroke",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd78413e4c5715300033e",
+"citool_id": "57dfd78413e4c57153000339",
+"citool_income": "Yes",
+"claim_value": "75%",
+"event_definitions": "\r\n                      <p>\r\n                        Stroke with moderate impairment\r\n                      </p>\r\n                      <ul>Cannot function independently, as measured by:\r\n                        <li>the inability to do six (6) or more advanced ADL's, or</li>\r\n                        <li>a WPI of 21% to 35%.</li>\r\n                      </ul>\r\n                     ",
+"parent_name": "stroke",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd78413e4c5715300033f",
+"citool_id": "57dfd78413e4c57153000339",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                      <p>\r\n                        Stroke with severe impairment\r\n                      </p>\r\n                      <ul>Needs constant assistance, as measured by:\r\n                        <li>the inability to do 3 or more basic ADL's, or</li>\r\n                        <li>a Whole Person Impairment (WPI) of greater than 35%</li>\r\n                      </ul>\r\n                     ",
+"parent_name": "stroke",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Stroke",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 14
+},
+{
+"_id": "57dfd78413e4c57153000340",
+"children": [
+{
+"_id": "57dfd78413e4c57153000341",
+"citool_id": "57dfd78413e4c57153000340",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed life-threatening hydrocephalus where the diagnosis must be made via a lumbar puncture and/or appropriate neuro-imaging techniques. A shunt must be surgically implanted in order to treat the condition. There must also be permanent inability to perform (whether aided or unaided) at least three (3) Activities of Daily Living as described in at the end of Appendix F. Claims are limited to one surgical procedure.\r\n                       </p>\r\n                     ",
+"parent_name": "hydrocephalus",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfd78413e4c57153000342",
+"citool_id": "57dfd78413e4c57153000340",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed hydrocephalus where the diagnosis must be made via a lumbar puncture and/or appropriate imaging techniques. A shunt must be surgically implanted in order to treat the condition. Claims are limited to one surgical procedure. \r\n                       </p>\r\n                     ",
+"parent_name": "hydrocephalus",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Hydrocephalus",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 15
+},
+{
+"_id": "57dfd78413e4c57153000343",
+"children": [
+{
+"_id": "57dfd78413e4c57153000344",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                       NOTE: The actual undergoing of the neurosurgical procedures outlined below, in an accredited theatre under the care of a registered neurosurgeon.  \r\n                       </p>\r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd78413e4c57153000345",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                        Stereotactic brain surgery\r\n                      </p> \r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfd78413e4c57153000346",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                        Cerebral oedema treated with a burr hole\r\n                      </p> \r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfd78413e4c57153000347",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                       Depressed skull fracture \r\n                      </p> \r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfd78413e4c57153000348",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>\r\n                      Intracranial endovascular procedures\r\n                      </p> \r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd78413e4c57153000349",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                      <p>\r\n                        Actual undergoing of a craniotomy for unspecified diagnosis \r\n                      </p> \r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd78413e4c5715300034a",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>\r\n                       Actual stenting for treating of symptomatic carotid artery stenosis in one or more carotid arteries\r\n                      </p> \r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd78413e4c5715300034b",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                      <p>\r\n                       Actual undergoing of by-pass graft or endarterectomy in one carotid artery\r\n                      </p> \r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd78413e4c5715300034c",
+"citool_id": "57dfd78413e4c57153000343",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                      <p>\r\n                       Actual undergoing of by-pass graft or endarterectomy in both carotid arteries\r\n                      </p> \r\n                     ",
+"parent_name": "neurosurgical-procedures",
+"position": null,
+"top_up": "Already 100%"
+}
+],
+"definition": "",
+"name": "Neurosurgical Procedures",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 16
+},
+{
+"_id": "57dfd78413e4c5715300034d",
+"children": [
+{
+"_id": "57dfd78413e4c5715300034e",
+"citool_id": "57dfd78413e4c5715300034d",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                       A confirmed diagnosis of subarachnoid haemorrhage as seen on Magnetic Resonance Imaging of the brain and that does not require surgery.   \r\n                       </p>\r\n                     ",
+"parent_name": "subarachnoid-haemorrhage",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Subarachnoid Haemorrhage",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 17
+},
+{
+"_id": "57dfd78413e4c5715300034f",
+"children": [
+{
+"_id": "57dfd78413e4c57153000350",
+"citool_id": "57dfd78413e4c5715300034f",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        Guillain-Barr&eacute; with permanent neurological deficit not requiring any ambulatory device\r\n                       </p>\r\n                     ",
+"parent_name": "guillain-barre",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd78413e4c57153000351",
+"citool_id": "57dfd78413e4c5715300034f",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                        Guillain-Barr&eacute; with permanent neurological deficit requiring ambulatory device\r\n                       </p>\r\n                     ",
+"parent_name": "guillain-barre",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Guillain-Barré",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 18
+},
+{
+"_id": "57dfd78413e4c57153000352",
+"children": [
+{
+"_id": "57dfd78413e4c57153000353",
+"citool_id": "57dfd78413e4c57153000352",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                        Definitive diagnosis of a pituitary adenoma on radiological investigation like CT-scan or Magnetic Resonance Imaging scan. The adenoma must measure at least 2 cm in diameter and be treated by a neurosurgeon with surgical excision.  \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "pituitary-adenoma",
+"position": null,
+"top_up": "15%"
+}
+],
+"definition": "",
+"name": "Pituitary Adenoma",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 19
+},
+{
+"_id": "57dfd78413e4c57153000354",
+"children": [
+{
+"_id": "57dfd78413e4c57153000355",
+"citool_id": "57dfd78413e4c57153000354",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Definite diagnosis of myasthenia gravis as confirmed by a specialist or neurologist. There must be confirmed antibodies against receptors in the neuromuscular junction and associated objective evidence of weakness in the affected muscle groups. \r\n                       </p>\r\n                     ",
+"parent_name": "myasthenia-gravis",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Myasthenia Gravis",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 20
+},
+{
+"_id": "57dfd78413e4c57153000358",
+"children": [
+{
+"_id": "57dfd78413e4c57153000359",
+"citool_id": "57dfd78413e4c57153000358",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                        Definitive diagnosis of Status Epilepticus by a registered medical specialist treated with abortive anti-epileptic therapy in an Intensive Care Unit as defined by the Critical Care Society of South Africa.  \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "status-epilepticus",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Status Epilepticus",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 21
+},
+{
+"_id": "57dfd78413e4c57153000356",
+"children": [
+{
+"_id": "57dfd78413e4c57153000357",
+"citool_id": "57dfd78413e4c57153000356",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        The actual permanent institutionalization for major psychiatric disorder that requires constant supervision as diagnosed and treated by a registered psychiatrist.\r\n                       </p>\r\n                       <p>Exclusion: Substance abuse related psychosis</p>\r\n                     ",
+"parent_name": "major-psychiatric-disorder",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Major Psychiatric Disorder",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 22
+},
+{
+"_id": "57dfd78413e4c5715300035a",
+"children": [
+{
+"_id": "57dfd78413e4c5715300035b",
+"citool_id": "57dfd78413e4c5715300035a",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                        Unequivocal diagnosis of petrositis of petrous temporal bone by a registered neurosurgeon. \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "petrositis",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Petrositis",
+"parent_name": "Nervous System",
+"parent_position": 3,
+"position": 23
+}
+],
+"Cardiovascular": [
+{
+"_id": "57dfd89b13e4c5715300035c",
+"children": [
+{
+"_id": "57dfd89b13e4c5715300035d",
+"citool_id": "57dfd89b13e4c5715300035c",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: \"Heart Attack\" is defined as death of a portion of the heart muscle arising from inadequate blood supply to the relevant area due to coronary artery disease. The diagnosis must be supported by all three (3) of the following criteria and be diagnostic of a new definite acute myocardial infarction:\r\n                       </p>\r\n                       <ul>\r\n                         <li>Symptoms clinically accepted as consistent with the diagnosis of an acute myocardial infarction</li>\r\n                         <li>New characteristic electrocardiographic changes</li>\r\n                         <li> The characteristic rise above accepted normal values of Biochemical cardiac specific markers or enzymes. </li>\r\n                       </ul>\r\n                       <p>\r\n                         Other acute coronary syndromes, including but not limited to angina, are not covered by this definition.\r\n                         The payout levels for Heart Attack depend on the criteria as described in the following table:\r\n                       </p>\r\n                     ",
+"parent_name": "heart-attack",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd89b13e4c5715300035e",
+"citool_id": "57dfd89b13e4c5715300035c",
+"citool_income": "Yes",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        The above definition of heart attack must be met and the electrocardiographic (ECG) changes must be consistent with a Non ST Elevation Myocardial Infarction (NSTEMI); or Level D SCIDEP definition\r\n                       </p>\r\n                     ",
+"parent_name": "heart-attack",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c5715300035f",
+"citool_id": "57dfd89b13e4c5715300035c",
+"citool_income": "Yes",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        The above definition of heart attack must be met and the electrocardiographic (ECG) changes must be consistent with a definite ST Elevation Myocardial Infarction (STEMI); or Level C SCIDEP definition \r\n                       </p>\r\n                     ",
+"parent_name": "heart-attack",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000360",
+"citool_id": "57dfd89b13e4c5715300035c",
+"citool_income": "Yes",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                        The above definition of heart attack must be met and there must also be imaging evidence showing permanently impaired left ventricular ejection fraction of between 40% and 50% measured at least 14 days following the acute myocardial infarction, while on optimal medical treatment.\r\n                       </p>\r\n                     ",
+"parent_name": "heart-attack",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000361",
+"citool_id": "57dfd89b13e4c5715300035c",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                       The above definition of heart attack must be met and there must also be imaging evidence showing permanently impaired left ventricular ejection fraction of less than 40% measured at least 14 days following the acute myocardial infarction, while on optimal medical treatment.\r\n                       </p>\r\n                     ",
+"parent_name": "heart-attack",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Heart Attack",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 24
+},
+{
+"_id": "57dfd89b13e4c57153000362",
+"children": [
+{
+"_id": "57dfd89b13e4c57153000363",
+"citool_id": "57dfd89b13e4c57153000362",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: \"Coronary Artery Bypass Graft\" (CABG) is defined as the actual undergoing of cardiac surgery to correct narrowing or blockage of one or more coronary arteries with insertion of bypass graft(s).  \r\n                        Pre-operative angiographic evidence of significant coronary artery obstruction must be provided and the procedure must be considered medically necessary by a consultant cardiologist. Balloon angioplasty (PTCA), heart catheterization, laser relief, rotablade, stenting and all other intra-arterial catheter based techniques are excluded.\r\n                        The payout levels depend on the extent and type of bypass surgery that was performed as described in the following table:\r\n                       </p>\r\n                     ",
+"parent_name": "coronary-artery-bypass-graft-surgery",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd89b13e4c57153000364",
+"citool_id": "57dfd89b13e4c57153000362",
+"citool_income": "Yes",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                       The above definition of Coronary Artery Bypass Graft must be met. <br>\r\n                       There must also have been undergoing of open-heart surgery with a thoracotomy or sternotomy to correct narrowing or blockage of one (1) coronary artery with insertion of bypass graft(s).  \r\n                       </p>\r\n                     ",
+"parent_name": "coronary-artery-bypass-graft-surgery",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000365",
+"citool_id": "57dfd89b13e4c57153000362",
+"citool_income": "Yes",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                        The above definition of Coronary Artery Bypass Graft must be met. <br>\r\n                        There must also have been the undergoing of open-heart surgery with a thoracotomy or sternotomy to correct narrowing or blockage of two (2) coronary arteries with insertion of bypass graft(s).  \r\n                       </p>\r\n                     ",
+"parent_name": "coronary-artery-bypass-graft-surgery",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000366",
+"citool_id": "57dfd89b13e4c57153000362",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        The above definition of Coronary Artery Bypass Graft must be met. \r\n                        There must also have been the undergoing of open-heart surgery with a thoracotomy or sternotomy to correct narrowing or blockage of three (3) or more coronary arteries with insertion of bypass graft(s).  \r\n                       </p>\r\n                     ",
+"parent_name": "coronary-artery-bypass-graft-surgery",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Coronary Artery Bypass Graft Surgery",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 25
+},
+{
+"_id": "57dfd89b13e4c57153000367",
+"children": [
+{
+"_id": "57dfd89b13e4c57153000368",
+"citool_id": "57dfd89b13e4c57153000367",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: \"Cardiomyopathy\" is a heart muscle disease preventing the heart from functioning properly causing heart failure. <br>\r\n                        There must be an unequivocal diagnosis by a Consultant Cardiologist of \"Cardiomyopathy\" needing chronic medical therapy. There must be imaging evidence of severe left ventricular dysfunction (systolic or diastolic). <br>\r\n                        Cardiomyopathy related to alcohol or drug misuse is excluded. <br>\r\n                        The payout levels depend on the degree of functional limitation as described in the following table:\r\n                       </p>\r\n                     ",
+"parent_name": "cardiomyopathy",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd89b13e4c57153000369",
+"citool_id": "57dfd89b13e4c57153000367",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                        This disease must result in severe physical limitation of activity to less than 5 METS with symptoms equivalent to the degree of class III of the New York Heart Association Classification (as defined at the end of Appendix F). This limitation must be sustained over at least six months once stabilized on appropriate therapy and the limitation must be deemed to be permanent by the consultant cardiologist with no hope of recovery despite any ongoing medical or surgical therapy.  \r\n                       </p>\r\n                     ",
+"parent_name": "cardiomyopathy",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c5715300036a",
+"citool_id": "57dfd89b13e4c57153000367",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        This disease must result in severe physical limitation of activity to less than 3 METS with symptoms occurring at rest, equivalent to the degree of class IV of the New York Heart Association Classification (as defined at the end of Appendix F). This limitation must be sustained over at least six (6) months once stabilized on appropriate therapy and the limitation must be deemed to be permanent by the consultant cardiologist with no hope of recovery despite any ongoing medical or surgical therapy.\r\n                       </p>\r\n                     ",
+"parent_name": "cardiomyopathy",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Cardiomyopathy",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 26
+},
+{
+"_id": "57dfd89b13e4c5715300036b",
+"children": [
+{
+"_id": "57dfd89b13e4c5715300036c",
+"citool_id": "57dfd89b13e4c5715300036b",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                       NOTE: \"Coronary Artery Angioplasty\" means the first time undergoing of coronary angioplasty (PTCA), atherectomy, or insertion of a stent to correct a significant stenosis of at least 50% diameter narrowing of one or more coronary arteries during a single operative procedure. Angiographic evidence must be supplied that supports the degree of pre-operative stenosis.<br>A consultant cardiologist must confirm that the procedure was clinically necessary where at least one (1) of the following criteria was present:\r\n                       </p>\r\n                       <ul>\r\n                         <li>The obstruction was giving rise to impairment of ventricular function</li>\r\n                         <li>The obstruction was giving rise to disabling symptoms verified as ischaemic in origin with a positive exercise stress test</li>\r\n                         <li>The obstruction was associated with unstable angina pectoris or myocardial infarction.</li>\r\n                       </ul>\r\n                     ",
+"parent_name": "coronary-angioplasty",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Coronary Angioplasty",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 27
+},
+{
+"_id": "57dfd89b13e4c5715300036d",
+"children": [
+{
+"_id": "57dfd89b13e4c5715300036e",
+"citool_id": "57dfd89b13e4c5715300036d",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: \"Heart Valve Surgery\" means the undergoing of heart valve surgery to replace or repair one or more heart valves, as a consequence of defects in, abnormalities of, or disease-affected cardiac valve(s).<br>\r\n                        The surgery must be considered medically necessary by a consulting cardiologist and supported by appropriate investigations.<br>\r\n                        The payout levels depend on the extent and type of surgery that was performed as described in the following table:<br>\r\n                       </p>\r\n                     ",
+"parent_name": "heart-valve-surgery",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd89b13e4c5715300036f",
+"citool_id": "57dfd89b13e4c5715300036d",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        The actual undergoing of valvotomy on one or more heart valves, with either keyhole surgery or percutaneous balloon dilatation.\r\n                       </p>\r\n                     ",
+"parent_name": "heart-valve-surgery",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd89b13e4c57153000370",
+"citool_id": "57dfd89b13e4c5715300036d",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                        The actual undergoing of valvoplasty on one or more heart valves, with either keyhole surgery or percutaneous balloon dilatation.\r\n                       </p>\r\n                     ",
+"parent_name": "heart-valve-surgery",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000371",
+"citool_id": "57dfd89b13e4c5715300036d",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        The insured must have required the undergoing of open-heart surgery with a thoracotomy and sternotomy to replace or repair one or more heart valves.\r\n                       </p>\r\n                     ",
+"parent_name": "heart-valve-surgery",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfd89b13e4c57153000372",
+"citool_id": "57dfd89b13e4c5715300036d",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Unequivocal diagnosis of atrial/ventricular septal defect: Symptomatic atrial or ventricular septal defect requiring surgical closure.\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "heart-valve-surgery",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Heart Valve Surgery",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 28
+},
+{
+"_id": "57dfd89b13e4c57153000373",
+"children": [
+{
+"_id": "57dfd89b13e4c57153000374",
+"citool_id": "57dfd89b13e4c57153000373",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: The actual undergoing of a cardiac procedure not described elsewhere to correct a structural defect in the heart muscles, chambers, walls and vessels. The payout for each procedure is outlined below:\r\n                       </p>\r\n                     ",
+"parent_name": "heart-structural-defects",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd89b13e4c57153000375",
+"citool_id": "57dfd89b13e4c57153000373",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                       Actual undergoing of cardioversion\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "heart-structural-defects",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfd89b13e4c57153000376",
+"citool_id": "57dfd89b13e4c57153000373",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                         Acute rheumatic fever with confirmed endocarditis treated in an accredited Intensive Care Unit (ICU) for at least 4 days\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "heart-structural-defects",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfd89b13e4c57153000377",
+"citool_id": "57dfd89b13e4c57153000373",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                         Arrhythmia requiring permanent pacemaker\r\n                       </p>\r\n                     ",
+"parent_name": "heart-structural-defects",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd89b13e4c57153000378",
+"citool_id": "57dfd89b13e4c57153000373",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                         Permanent defibrillator insertion\r\n                       </p>\r\n                     ",
+"parent_name": "heart-structural-defects",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000379",
+"citool_id": "57dfd89b13e4c57153000373",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                         Repair ventricular aneurysm \r\n                       </p>\r\n                     ",
+"parent_name": "heart-structural-defects",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c5715300037a",
+"citool_id": "57dfd89b13e4c57153000373",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                         Pericardectomy \r\n                       </p>\r\n                     ",
+"parent_name": "heart-structural-defects",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c5715300037b",
+"citool_id": "57dfd89b13e4c57153000373",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                         A valvular or septal heart disease resulting in a moderate cardiac or cardiovascular system impairment including a FEV &lt;40%\r\n                       </p>\r\n                     ",
+"parent_name": "heart-structural-defects",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Heart Structural Defects",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 29
+},
+{
+"_id": "57dfd89b13e4c5715300037c",
+"children": [
+{
+"_id": "57dfd89b13e4c5715300037d",
+"citool_id": "57dfd89b13e4c5715300037c",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: Confirmed presence of Peripheral vascular disease affecting the head, vital organs and limbs confirmed by an appropriate medical specialist. The payouts outlined below are applicable for the different forms of peripheral vascular disease as well as actual undergoing of the surgical procedures described below and which are not specified elsewhere in this product. \r\n                       </p>\r\n                     ",
+"parent_name": "peripheral-vascular-disease",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd89b13e4c5715300037e",
+"citool_id": "57dfd89b13e4c5715300037c",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                        Peripheral arterial disease resulting in angioplasty with or without stenting.\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "peripheral-vascular-disease",
+"position": null,
+"top_up": "15%"
+},
+{
+"_id": "57dfd89b13e4c5715300037f",
+"citool_id": "57dfd89b13e4c5715300037c",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                         Peripheral arterial disease resulting in angioplasty with 2 or more stents in a single vessel or in separate vessels.\r\n                       </p>\r\n                     ",
+"parent_name": "peripheral-vascular-disease",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd89b13e4c57153000380",
+"citool_id": "57dfd89b13e4c5715300037c",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                         A by-pass graft to correct any diseased peripheral artery\r\n                       </p>\r\n                     ",
+"parent_name": "peripheral-vascular-disease",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000381",
+"citool_id": "57dfd89b13e4c5715300037c",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                         Peripheral arterial disease resulting in persistent claudication and leg ulcer/s, dystrophic changes or colour changes.\r\n                       </p>\r\n                     ",
+"parent_name": "peripheral-vascular-disease",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000382",
+"citool_id": "57dfd89b13e4c5715300037c",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                         Peripheral artery disease with gangrene or loss of limb\r\n                       </p>\r\n                     ",
+"parent_name": "peripheral-vascular-disease",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfd89b13e4c57153000383",
+"citool_id": "57dfd89b13e4c5715300037c",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Bilateral carotid artery endarterectomy or bypass\r\n                       </p>\r\n                     ",
+"parent_name": "peripheral-vascular-disease",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Peripheral Vascular Disease",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 30
+},
+{
+"_id": "57dfd89b13e4c57153000384",
+"children": [
+{
+"_id": "57dfd89b13e4c57153000385",
+"citool_id": "57dfd89b13e4c57153000384",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: The actual undergoing of major surgery to repair or correct an aneurysm, narrowing, obstruction or dissection of an artery through surgical opening. For the purpose of this definition artery shall mean the aorta and all major branches thereof.\r\n                       </p>\r\n                     ",
+"parent_name": "arterial-aneurysm",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd89b13e4c57153000386",
+"citool_id": "57dfd89b13e4c57153000384",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        Aneurysm: Aortic-iliac aneurysm requiring repair\r\n                       </p>\r\n                     ",
+"parent_name": "arterial-aneurysm",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000387",
+"citool_id": "57dfd89b13e4c57153000384",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        Aneurysm: Iliofemoral aneurysm requiring repair\r\n                       </p>\r\n                     ",
+"parent_name": "arterial-aneurysm",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000388",
+"citool_id": "57dfd89b13e4c57153000384",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                         Aortic surgery: Major surgery to dissect and surgically graft an aneurysm\r\n                       </p>\r\n                     ",
+"parent_name": "arterial-aneurysm",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfd89b13e4c57153000389",
+"citool_id": "57dfd89b13e4c57153000384",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                         Arteritis or endarteritis requiring a minimum hospital stay of 7 days\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "arterial-aneurysm",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Arterial Aneurysm",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 31
+},
+{
+"_id": "57dfd89b13e4c5715300038a",
+"children": [
+{
+"_id": "57dfd89b13e4c5715300038b",
+"citool_id": "57dfd89b13e4c5715300038a",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Receiving a transplant or being on the official South African or International waiting list for a heart transplant.    \r\n                       </p>\r\n                     ",
+"parent_name": "heart-transplant",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Heart Transplant",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 32
+},
+{
+"_id": "57dfd89b13e4c5715300038c",
+"children": [
+{
+"_id": "57dfd89b13e4c5715300038d",
+"citool_id": "57dfd89b13e4c5715300038c",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        Clinically necessary pacemaker insertion as per latest American Heart Association practice guidelines.    \r\n                       </p>\r\n                     ",
+"parent_name": "pacemaker-and-defibrillator",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c5715300038e",
+"citool_id": "57dfd89b13e4c5715300038c",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                         Arrhythmia requiring pathway ablation performed by a cardiologist   \r\n                       </p>\r\n                     ",
+"parent_name": "pacemaker-and-defibrillator",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd89b13e4c5715300038f",
+"citool_id": "57dfd89b13e4c5715300038c",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                         Actual undergoing of cardioversion or defibrillation  \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "pacemaker-and-defibrillator",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfd89b13e4c57153000390",
+"citool_id": "57dfd89b13e4c5715300038c",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                         Arrhythmia: Intravenous anti-arrhythmic therapy or inotropic support for at least 48 hours  \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "pacemaker-and-defibrillator",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfd89b13e4c57153000391",
+"citool_id": "57dfd89b13e4c5715300038c",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                         Atrial fibrillation despite appropriate abortive therapy\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "pacemaker-and-defibrillator",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Pacemaker and Defibrillator",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 33
+},
+{
+"_id": "57dfd89b13e4c57153000392",
+"children": [
+{
+"_id": "57dfd89b13e4c57153000393",
+"citool_id": "57dfd89b13e4c57153000392",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: The unequivocal diagnosis of heart failure that meets the criteria outlined below for each payout. The confirmed diagnosis must be made by a registered cardiologist with positive findings on echocardiogram as well as clinical examination.    \r\n                       </p>\r\n                     ",
+"parent_name": "heart-failure",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd89b13e4c57153000394",
+"citool_id": "57dfd89b13e4c57153000392",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                         Acute heart failure requiring a minimum hospital ICU admission of 5 days   \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "heart-failure",
+"position": null,
+"top_up": "15%"
+},
+{
+"_id": "57dfd89b13e4c57153000395",
+"citool_id": "57dfd89b13e4c57153000392",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                         Irreversible heart failure with NYHA III or a left ventricular ejection fraction between 40% to 50% measured one month after the event \r\n                       </p>\r\n                     ",
+"parent_name": "heart-failure",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd89b13e4c57153000396",
+"citool_id": "57dfd89b13e4c57153000392",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Irreversible heart failure with NYHA IV and a left ventricular ejection fraction &lt; 40%\r\n                       </p>\r\n                     ",
+"parent_name": "heart-failure",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Heart Failure",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 34
+},
+{
+"_id": "57dfd89b13e4c57153000397",
+"children": [
+{
+"_id": "57dfd89b13e4c57153000398",
+"citool_id": "57dfd89b13e4c57153000397",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                        Malignant Hypertension with papilloedema \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "malignant-hypertension",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Malignant Hypertension",
+"parent_name": "Cardiovascular",
+"parent_position": 4,
+"position": 35
+}
+],
+"Connective Tissue Diseases": [
+{
+"_id": "57dfd91d13e4c5715300039b",
+"children": [
+{
+"_id": "57dfd91d13e4c5715300039c",
+"citool_id": "57dfd91d13e4c5715300039b",
+"citool_income": "No",
+"claim_value": "",
+"event_definitions": "\r\n                       <p>The definitive diagnosis of a connective tissue disease with multi-organ involvement. A registered medical specialist of the relevant discipline must confirm the diagnosis with appropriate blood tests or tissue biopsies according to internationally recognised criteria. All connective tissue diseases defined in this benefit category require systemic involvement. Systemic involvement must include at least one of the following organs heart, lung, kidney, spleen or brain.\r\n                      Only the connective tissue diseases outlined in this category are covered and these are Rheumatoid arthritis, Systemic lupus erythematosus, Wegener's granulomatosis, Sarcoidosis, Polyarteritis Nodosa, Polymyocitis, Giant cell arteritis and Scleroderma. The payouts for these connective tissue diseases are outlined below: </p>\r\n                     ",
+"parent_name": "connective-tissue-diseases",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfd91d13e4c5715300039d",
+"citool_id": "57dfd91d13e4c5715300039b",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>Single system involvement, and good response to therapy; or An ophthalmologist must confirm that Giant cell arteritis has affected at least one eye.</p>\r\n                     ",
+"parent_name": "connective-tissue-diseases",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfd91d13e4c5715300039e",
+"citool_id": "57dfd91d13e4c5715300039b",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                      <p>Response only to triple medication therapy; or</p>\r\n                      <p>Joint replacement as a result of a connective tissue disease; or</p>\r\n                      <p>Failed response to more than two (2) optimal disease modifying regimens.</p>\r\n                     ",
+"parent_name": "connective-tissue-diseases",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd91d13e4c5715300039f",
+"citool_id": "57dfd91d13e4c5715300039b",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                      <p>Multiple organ involvement with reasonable response to therapy and normal daily functioning; or</p>\r\n                      <p>Permanent inability of the insured to perform (whether aided or unaided) at least two (2) Activities of Daily Living, as supplied at the end of Appendix F, for a continuous period of at least 6 months.</p>\r\n                     ",
+"parent_name": "connective-tissue-diseases",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfd91d13e4c571530003a0",
+"citool_id": "57dfd91d13e4c5715300039b",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                      <p>Permanent inability of the insured to perform (whether aided or unaided) at least three (3) Activities of Daily Living, as supplied at the end of Appendix F, for a continuous period of at least 6 months; or</p>          \r\n                      <p>Renal impairment resultant from immune-complex deposition in the kidneys; or</p>\r\n                      <p>Severe systemic lupus erythematosus involving at least three major organs; or</p>\r\n                      <p>Cardiac complications with a permanent left ventricular ejection fraction of less than 40%.</p>\r\n                     ",
+"parent_name": "connective-tissue-diseases",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Connective Tissue Diseases",
+"parent_name": "Connective Tissue Diseases",
+"parent_position": 5,
+"position": 36
+},
+{
+"_id": "57dfd91d13e4c571530003a1",
+"children": [
+{
+"_id": "57dfd91d13e4c571530003a2",
+"citool_id": "57dfd91d13e4c571530003a1",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>The actual diagnosis of Ehlers-Danlos syndrome with at least one major organ (heart, lung, kidneys, intestines and uterus) involvement. A registered medical specialist of the relevant discipline must confirm the diagnosis and furnish the appropriate blood tests, one of which must be a positive genetic screening test.</p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "ehlers-danlos-syndrome",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Ehlers-Danlos syndrome",
+"parent_name": "Connective Tissue Diseases",
+"parent_position": 5,
+"position": 37
+},
+{
+"_id": "57dfd91d13e4c571530003a3",
+"children": [
+{
+"_id": "57dfd91d13e4c571530003a4",
+"citool_id": "57dfd91d13e4c571530003a3",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>The definitive diagnosis of hypermobility syndrome by a rheumatologist who must furnish copies of the appropriate pathology tests that confirm the diagnosis. At least one joint affected by hypermobility syndrome must be corrected with surgery.</p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "hypermobility-syndrome",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Hypermobility syndrome",
+"parent_name": "Connective Tissue Diseases",
+"parent_position": 5,
+"position": 38
+},
+{
+"_id": "57dfd91d13e4c571530003a5",
+"children": [
+{
+"_id": "57dfd91d13e4c571530003a6",
+"citool_id": "57dfd91d13e4c571530003a5",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>The actual diagnosis of Pseudoxanthoma elasticum by a medical specialist with appropriate genetic tests that confirm the diagnosis.</p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "pseudoxanthoma-elasticum",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Pseudoxanthoma elasticum",
+"parent_name": "Connective Tissue Diseases",
+"parent_position": 5,
+"position": 39
+}
+],
+"Infectious Diseases": [
+{
+"_id": "57dfd98513e4c571530003a7",
+"children": [
+{
+"_id": "57dfd98513e4c571530003a8",
+"citool_id": "57dfd98513e4c571530003a7",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed diagnosis of AIDS as evidenced by a positive HIV ELISA antibody test and a positive HIV confirmatory test (Western Blot or PCR Test). The insured's CD4 cell count must also be less than 200 cells per &micro;L of blood.\r\n                        <br>\r\n                        <span>Either A) or B) of following criteria must also be met:</span>\r\n                        </p>\n<ul>A) One (1) of the following conditions must exist:\r\n                          <li>Kaposi Sarcoma under age 60</li>\r\n                          <li>Pneumocystic carinii pneumonia</li>\r\n                          <li>Progressive multifocal leukoencephalopathy</li>\r\n                          <li>Extra pulmonary tuberculosis</li>\r\n                          <li>Cryptococcal Meningitis</li>\r\n                        </ul>\r\n                        <br>\r\n                        <ul>B) Three (3) of the following conditions must also exist:\r\n                          <li>Weight loss of &gt;10% body mass in less than 6 months</li>\r\n                          <li>Shingles</li>\r\n                          <li>Oral thrush</li>\r\n                          <li>Chronic diarrhoea</li>\r\n                          <li>Active pulmonary tuberculosis</li>\r\n                        </ul>\r\n                       \r\n                     ",
+"parent_name": "hiv-and-full-blown-aids",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfd98513e4c571530003a9",
+"citool_id": "57dfd98513e4c571530003a7",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Accidental infection by the Human Immunodeficiency Virus (HIV) or the diagnosis of acquired immunodeficiency syndrome (AIDS), as confirmed by a positive HIV ELISA antibody test, and a positive HIV confirmatory test (Western Blot or PCR Test). There must be evidence of an initial negative HIV ELISA antibody test result within 5 days of the incident and further evidence of seroconversion subsequent to the same incident. \r\n                        <br>\r\n                        <span>Only HIV infection resulting from, or transmitted by the methods described below is covered:</span>\r\n                        </p>\n<ul>\r\n                          <li> an occupational accident</li>\r\n                          <li>medical procedure</li>\r\n                          <li>physical or sexual assault</li>\r\n                        </ul>\r\n                        <br>\r\n                        <p>The incident that results in HIV infection must have been reported to appropriate authorities and have been investigated in accordance with the established procedures.<br><br>\r\n                        Exclusions: HIV infection that is acquired through consensual sexual activity, recreational intravenous drug use or self-infliction is specifically excluded.</p>\r\n                       \r\n                     ",
+"parent_name": "hiv-and-full-blown-aids",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "HIV and Full Blown Aids",
+"parent_name": "Infectious Diseases",
+"parent_position": 6,
+"position": 40
+},
+{
+"_id": "57dfd98513e4c571530003aa",
+"children": [
+{
+"_id": "57dfd98513e4c571530003ac",
+"citool_id": "57dfd98513e4c571530003aa",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                       Confirmed diagnosis of bacterial meningitis with positive findings in cerebrospinal fluid.\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "bacterial-meningitis",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfd98513e4c571530003ab",
+"citool_id": "57dfd98513e4c571530003aa",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Unequivocal diagnosis of bacterial meningitis by a consultant physician that must be proven on analysis of cerebrospinal fluid. <br>\r\n                        There must also be either:  \r\n                        <br>\r\n                        </p>\n<ul>\r\n                          <li> Permanent residual neurological functional deficit that is present at least three (3) months after the diagnosis of the meningitis infection</li>\r\n                          <li>Permanent inability to perform (whether aided or unaided) at least three (3) Activities of Daily Living as described in at the end of Appendix F.</li>\r\n                        </ul>\r\n                       \r\n                     ",
+"parent_name": "bacterial-meningitis",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Bacterial Meningitis",
+"parent_name": "Infectious Diseases",
+"parent_position": 6,
+"position": 41
+},
+{
+"_id": "57dfd98513e4c571530003ad",
+"children": [
+{
+"_id": "57dfd98513e4c571530003ae",
+"citool_id": "57dfd98513e4c571530003ad",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed cerebral malaria that results in multi-organ failure involving at least the brain, kidney or heart. The malaria must be treated in an Intensive Care Unit as defined by the Critical Care Society of South Africa.\r\n                       </p>\r\n                     ",
+"parent_name": "cerebral-malaria",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Cerebral Malaria",
+"parent_name": "Infectious Diseases",
+"parent_position": 6,
+"position": 42
+},
+{
+"_id": "57dfd98513e4c571530003af",
+"children": [
+{
+"_id": "57dfd98513e4c571530003b0",
+"citool_id": "57dfd98513e4c571530003af",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Radiologically confirmed brain abscess that is surgically drained and treated with intravenous antibiotics without permanent neurological deficit. \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "brain-abscess",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Brain Abscess",
+"parent_name": "Infectious Diseases",
+"parent_position": 6,
+"position": 43
+},
+{
+"_id": "57dfd98513e4c571530003b1",
+"children": [
+{
+"_id": "57dfd98513e4c571530003b2",
+"citool_id": "57dfd98513e4c571530003b1",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Definitive diagnosis of encephalitis proven through positive findings in the cerebrospinal fluid and treated in an acute hospital for a minimum of three (3) night's length of stay.\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "encephalitis",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Encephalitis",
+"parent_name": "Infectious Diseases",
+"parent_position": 6,
+"position": 44
+},
+{
+"_id": "57dfd98513e4c571530003b3",
+"children": [
+{
+"_id": "57dfd98513e4c571530003b4",
+"citool_id": "57dfd98513e4c571530003b3",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        Definitive diagnosis of mastoiditis that has been treated with radical mastoidectomy as performed by a registered maxillo facial surgeon.\r\n                       </p>\r\n                     ",
+"parent_name": "mastoiditis",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Mastoiditis",
+"parent_name": "Infectious Diseases",
+"parent_position": 6,
+"position": 45
+}
+],
+"Respiratory": [
+{
+"_id": "57dfda3513e4c571530003b5",
+"children": [
+{
+"_id": "57dfda3513e4c571530003b6",
+"citool_id": "57dfda3513e4c571530003b5",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Respiratory failure: irreversible end stage respiratory failure (FEV1 &lt; 1 litre for obstructive lung disease or FVC &lt; 1 litre for restrictive lung disease with clinical signs and symptoms, or FEV1 &lt; 40% predicted or FVC &lt; 40% predicted\r\n                        OR\r\n                       </p>\r\n                     ",
+"parent_name": "respiratory-failure",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfda3513e4c571530003b7",
+"citool_id": "57dfda3513e4c571530003b5",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        Lung disease: chronic irreversible lung disease with FEV1 of 40-50%(obstructive) or FVC of 40-50% predicted (restrictive) OR Severe irreversible changes in pulmonary function tests with permanent DCO &lt; 50% (obstructive and/or restrictive)\r\n                       </p>\r\n                     ",
+"parent_name": "respiratory-failure",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Respiratory Failure",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 46
+},
+{
+"_id": "57dfda3513e4c571530003b8",
+"children": [
+{
+"_id": "57dfda3513e4c571530003b9",
+"citool_id": "57dfda3513e4c571530003b8",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                        The insured must undergo surgical removal of one complete lung otherwise known as pneumonectomy\r\n                       </p>\r\n                     ",
+"parent_name": "pneumonectomy",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Pneumonectomy",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 47
+},
+{
+"_id": "57dfda3513e4c571530003ba",
+"children": [
+{
+"_id": "57dfda3513e4c571530003bb",
+"citool_id": "57dfda3513e4c571530003ba",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        The insured must undergo surgical removal of one complete lobe of the lung. \r\n                       </p>\r\n                     ",
+"parent_name": "lobectomy",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfda3513e4c571530003bc",
+"citool_id": "57dfda3513e4c571530003ba",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                        Actual undergoing of a pleurectomy with or without removal of lung parenchymal tissue.  \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "lobectomy",
+"position": null,
+"top_up": "15%"
+},
+{
+"_id": "57dfda3513e4c571530003bd",
+"citool_id": "57dfda3513e4c571530003ba",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                        Actual decortication of the lung with or without pleurectomy.  \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "lobectomy",
+"position": null,
+"top_up": "15%"
+}
+],
+"definition": "",
+"name": "Lobectomy",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 48
+},
+{
+"_id": "57dfda3513e4c571530003be",
+"children": [
+{
+"_id": "57dfda3513e4c571530003bf",
+"citool_id": "57dfda3513e4c571530003be",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Idiopathic Primary Pulmonary Hypertension with substantial right ventricular enlargement confirmed by echocardiogram and other appropriate investigations like cardiac catheterisation, resulting in permanent physical impairment of at least Class IV of the New York Heart Association (NYHA) Classification of Cardiac Impairment.  \r\n                       </p>\r\n                     ",
+"parent_name": "idiopathic-primary-pulmonary-hypertension-pulmonary-artery-surgery",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfda3513e4c571530003c0",
+"citool_id": "57dfda3513e4c571530003be",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        Actual undergoing of pulmonary artery surgery otherwise known as pulmonary thromboendarterectomy \r\n                       </p>\r\n                     ",
+"parent_name": "idiopathic-primary-pulmonary-hypertension-pulmonary-artery-surgery",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Idiopathic Primary Pulmonary Hypertension / Pulmonary Artery Surgery",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 49
+},
+{
+"_id": "57dfda3513e4c571530003c1",
+"children": [
+{
+"_id": "57dfda3513e4c571530003c2",
+"citool_id": "57dfda3513e4c571530003c1",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        A pulmonologist must confirm the presence of irreversible cor pulmonale  \r\n                       </p>\r\n                     ",
+"parent_name": "cor-pulmonale",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Cor Pulmonale",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 50
+},
+{
+"_id": "57dfda3513e4c571530003c3",
+"children": [
+{
+"_id": "57dfda3513e4c571530003c4",
+"citool_id": "57dfda3513e4c571530003c3",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        The unequivocal presence of a lung abscess or empyema as confirmed by radiological imaging like MRI scan and treated in a hospital with intravenous antibiotics that are in keeping with the cultured causative organisms.   \r\n                       </p>\r\n                     ",
+"parent_name": "lung-abscess",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Lung Abscess",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 51
+},
+{
+"_id": "57dfda3513e4c571530003c5",
+"children": [
+{
+"_id": "57dfda3513e4c571530003c6",
+"citool_id": "57dfda3513e4c571530003c5",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: The unequivocal diagnosis of the reversible lung disease described below with respective medical investigations and treatment by a registered pulmonologist.\r\n                       </p>\r\n                     ",
+"parent_name": "reversible-lung-disease",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfda3513e4c571530003c7",
+"citool_id": "57dfda3513e4c571530003c5",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Status asthmaticus that results in endotracheal intubation and mechanical ventilation.\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "reversible-lung-disease",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfda3513e4c571530003c8",
+"citool_id": "57dfda3513e4c571530003c5",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Pleural effusion with more than 300mls of fluid removed from the pleural cavity\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "reversible-lung-disease",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfda3513e4c571530003c9",
+"citool_id": "57dfda3513e4c571530003c5",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Near drowning that is treated with  endotracheal intubation and mechanical ventilation\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "reversible-lung-disease",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfda3513e4c571530003ca",
+"citool_id": "57dfda3513e4c571530003c5",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                        Hyperbaric oxygen therapy\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "reversible-lung-disease",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Reversible Lung Disease",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 52
+},
+{
+"_id": "57dfda3513e4c571530003cb",
+"children": [
+{
+"_id": "57dfda3513e4c571530003cc",
+"citool_id": "57dfda3513e4c571530003cb",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">\r\n                        NOTE: The unequivocal diagnosis of the chronic lung disease outlined below. The confirmed diagnosis must be made by a registered pulmonologist with positive findings on pathology investigations as well as lung function tests.   \r\n                       </p>\r\n                     ",
+"parent_name": "chronic-lung-disease",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfda3513e4c571530003cd",
+"citool_id": "57dfda3513e4c571530003cb",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                        Interstitial lung disease     \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "chronic-lung-disease",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfda3513e4c571530003ce",
+"citool_id": "57dfda3513e4c571530003cb",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                        Fibrosing alveolitis    \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "chronic-lung-disease",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfda3513e4c571530003cf",
+"citool_id": "57dfda3513e4c571530003cb",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                        Bronchiectasis   \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "chronic-lung-disease",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfda3513e4c571530003d0",
+"citool_id": "57dfda3513e4c571530003cb",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                        Pneumoconiosis    \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "chronic-lung-disease",
+"position": null,
+"top_up": "15%"
+},
+{
+"_id": "57dfda3513e4c571530003d1",
+"citool_id": "57dfda3513e4c571530003cb",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        Bronchopleural fistula    \r\n                       </p>\r\n                     ",
+"parent_name": "chronic-lung-disease",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Chronic Lung Disease",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 53
+},
+{
+"_id": "57dfda3513e4c571530003d2",
+"children": [
+{
+"_id": "57dfda3513e4c571530003d3",
+"citool_id": "57dfda3513e4c571530003d2",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        \"Pulmonary embolism\" is defined as a blood clot that dislodges from its site of formation and embolizes to the arterial blood supply of one of the lungs.<br>\r\n                        The diagnosis must be made by a physician and be proven on scan or angiogram. <br>\r\n                        This pulmonary embolism must have needed treatment with a veno cava filter.<br>\r\n                        Pulmonary embolism that only needs treatment with anticoagulation is specifically excluded.\r\n                       </p>\r\n                     ",
+"parent_name": "recurrent-pulmonary-embolism",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfda3513e4c571530003d4",
+"citool_id": "57dfda3513e4c571530003d2",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        Pulmonary embolism as confirmed with a ventilation-perfusion (VQ) scan and a positive D-dimer test    \r\n                       </p>\r\n                     ",
+"parent_name": "recurrent-pulmonary-embolism",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Recurrent Pulmonary Embolism",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 54
+},
+{
+"_id": "57dfda3513e4c571530003d5",
+"children": [
+{
+"_id": "57dfda3513e4c571530003d6",
+"citool_id": "57dfda3513e4c571530003d5",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Receiving a transplant or being on the official South African or International waiting list for a lung transplant. \r\n                       </p>\r\n                     ",
+"parent_name": "lung-transplant",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Lung Transplant",
+"parent_name": "Respiratory",
+"parent_position": 7,
+"position": 55
+}
+],
+"Urogenital": [
+{
+"_id": "57dfda9813e4c571530003d7",
+"children": [
+{
+"_id": "57dfda9813e4c571530003d8",
+"citool_id": "57dfda9813e4c571530003d7",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        The unequivocal diagnosis by a nephrologist of chronic irreversible failure of both kidneys.<br>\r\n                        The nephrologist must state that the Insured needs a kidney transplant and that the Insured is included on an official organ transplant waiting list.<br>\r\n                        Exclusion: Nephrectomy for donor purposes.\r\n                       </p>\r\n                     ",
+"parent_name": "kidney-transplant",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Kidney Transplant",
+"parent_name": "Urogenital",
+"parent_position": 8,
+"position": 56
+},
+{
+"_id": "57dfda9813e4c571530003d9",
+"children": [
+{
+"_id": "57dfda9813e4c571530003da",
+"citool_id": "57dfda9813e4c571530003d9",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                      <p>\r\n                       Confirmed diagnosis of progressive and irreversible failure of both kidneys to function sufficiently. Permanent renal dialysis must also be instituted and the dialysis must be deemed medically necessary by a certified nephrologist.<br>\r\n                       Acute reversible kidney failure that only needs temporary renal dialysis is not covered under this definition. Single kidney failure is not covered. \r\n                      </p>\r\n                    ",
+"parent_name": "kidney-failure",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfda9813e4c571530003db",
+"citool_id": "57dfda9813e4c571530003d9",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        Complete nephrectomy to treat injury or disease of the same kidney, OR <br>\r\n                        Confirmed permanent tubulointestitial disease that results in eGFR of 30-45ml/min/1.73m<sup>2</sup> <br>\r\n                        Exclusion: Nephrectomy for purposes of organ donation  \r\n                       </p>\r\n                     ",
+"parent_name": "kidney-failure",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfda9813e4c571530003dc",
+"citool_id": "57dfda9813e4c571530003d9",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        Acute renal failure treated with five haemodialysis treatments   \r\n                       </p>\r\n                     ",
+"parent_name": "kidney-failure",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Kidney Failure",
+"parent_name": "Urogenital",
+"parent_position": 8,
+"position": 57
+},
+{
+"_id": "57dfda9813e4c571530003dd",
+"children": [
+{
+"_id": "57dfda9813e4c571530003de",
+"citool_id": "57dfda9813e4c571530003dd",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                       Confirmed diagnosis of amyloidosis of the kidney by appropriate medical specialist.\r\n                      </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "amyloidosis-of-the-kidney",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Amyloidosis of the Kidney",
+"parent_name": "Urogenital",
+"parent_position": 8,
+"position": 58
+},
+{
+"_id": "57dfda9813e4c571530003df",
+"children": [
+{
+"_id": "57dfda9813e4c571530003e0",
+"citool_id": "57dfda9813e4c571530003df",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                      <p>\r\n                       Bilateral polycystic kidney disease as confirmed by a nephrologist with definitive findings on an ultrasound of the kidneys. \r\n                      </p>\r\n                    ",
+"parent_name": "polycystic-kidney-disease",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Polycystic Kidney Disease",
+"parent_name": "Urogenital",
+"parent_position": 8,
+"position": 59
+},
+{
+"_id": "57dfda9813e4c571530003e1",
+"children": [
+{
+"_id": "57dfda9813e4c571530003e2",
+"citool_id": "57dfda9813e4c571530003e1",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>\r\n                       The actual surgical resection of part of the bladder (partial cystectomy) \r\n                      </p>\r\n                    ",
+"parent_name": "cystectomy",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfda9813e4c571530003e3",
+"citool_id": "57dfda9813e4c571530003e1",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                      <p>\r\n                       The actual surgical resection of the entire bladder (complete cystectomy) \r\n                      </p>\r\n                    ",
+"parent_name": "cystectomy",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Cystectomy",
+"parent_name": "Urogenital",
+"parent_position": 8,
+"position": 60
+},
+{
+"_id": "57dfda9813e4c571530003e4",
+"children": [
+{
+"_id": "57dfda9813e4c571530003e5",
+"citool_id": "57dfda9813e4c571530003e4",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                      <p>\r\n                       The actual surgical resection of a single kidney or part thereof.  \r\n                      </p>\r\n                    ",
+"parent_name": "nephrectomy",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfda9813e4c571530003e6",
+"citool_id": "57dfda9813e4c571530003e4",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                       Incision and drainage of a kidney abscess with or without resection of the actual kidney \r\n                      </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "nephrectomy",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfda9813e4c571530003e7",
+"citool_id": "57dfda9813e4c571530003e4",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>\r\n                       Confirmed vascular injury to the kidney due to at least 50% renal artery stenosis or severance \r\n                      </p>\r\n                    ",
+"parent_name": "nephrectomy",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Nephrectomy",
+"parent_name": "Urogenital",
+"parent_position": 8,
+"position": 61
+},
+{
+"_id": "57dfda9813e4c571530003e8",
+"children": [
+{
+"_id": "57dfda9813e4c571530003e9",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                      <p class=\"red-unbolded\">\r\n                       NOTE: Definitive diagnosis or the actual undergoing of any of the following diseases by a registered nephrologist or urologist with positive imaging and blood tests.<br>\r\n                       Exclusion: Circumcision  \r\n                      </p>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfda9813e4c571530003ea",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                       Nephrotic Syndrome with proteinuria &gt; 3,5 grams/day. \r\n                      </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfda9813e4c571530003eb",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>\r\n                       Nephrotic Syndrome with renal vein thrombosis \r\n                      </p>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfda9813e4c571530003ec",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>\r\n                       Chronic bilateral pyelonephritis \r\n                      </p>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfda9813e4c571530003ed",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                       Urethral fistula \r\n                      </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfda9813e4c571530003ee",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                       Vesicovaginal fistula  \r\n                      </p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfda9813e4c571530003ef",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                       Rectovaginal fistula \r\n                      </p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfda9813e4c571530003f0",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                      <p>\r\n                       Complete amputation of the penis \r\n                      </p>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfda9813e4c571530003f1",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>\r\n                       Partial amputation of the penis\r\n                      </p>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfda9813e4c571530003f2",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                      <p>\r\n                       Bilateral orchidectomy \r\n                      </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfda9813e4c571530003f3",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                      <p>\r\n                       Unilateral orchidectomy \r\n                      </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "15%"
+},
+{
+"_id": "57dfda9813e4c571530003f4",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                      <p>\r\n                       Renal cortical necrosis  \r\n                      </p>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfda9813e4c571530003f5",
+"citool_id": "57dfda9813e4c571530003e8",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                      <p>\r\n                       Chronic Tubulo-Interstitial disease  \r\n                      </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                    ",
+"parent_name": "other-urogenital-diseases",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Other Urogenital Diseases",
+"parent_name": "Urogenital",
+"parent_position": 8,
+"position": 62
+}
+],
+"Gastrointestinal": [
+{
+"_id": "57dfdb7813e4c571530003f6",
+"children": [
+{
+"_id": "57dfdb7813e4c571530003f7",
+"citool_id": "57dfdb7813e4c571530003f6",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        The unequivocal diagnosis by a gastroenterologist of chronic irreversible failure of the pancreas. The gastroenterologist must state that the Insured needs a pancreas transplant and that the Insured is included on an official organ transplant waiting list.   \r\n                       </p>\r\n                     ",
+"parent_name": "pancreas-transplant",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Pancreas Transplant",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 63
+},
+{
+"_id": "57dfdb7813e4c571530003f8",
+"children": [
+{
+"_id": "57dfdb7813e4c571530003f9",
+"citool_id": "57dfdb7813e4c571530003f8",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        Unequivocal diagnosis of chronic pancreatitis by a gastroenterologist with malabsorption syndrome and at least one of the following complications: \r\n                        Chronic pain; or <br>                                                                       \r\n                        Impaired glucose tolerance test.<br>\r\n                        Chronic pancreatitis due to alcohol related complications is excluded from cover. \r\n                       </p>\r\n                     ",
+"parent_name": "chronic-pancreatitis",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Chronic Pancreatitis",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 64
+},
+{
+"_id": "57dfdb7813e4c571530003fa",
+"children": [
+{
+"_id": "57dfdb7813e4c571530003fb",
+"citool_id": "57dfdb7813e4c571530003fa",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        A gastroenterologist must make the definite diagnosis of Crohn's disease based on histopathologic evidence and surgically treated with permanent ileostomy or permanent colostomy \r\n                       </p>\r\n                     ",
+"parent_name": "chrohn-s-disease",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Chrohn's Disease",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 65
+},
+{
+"_id": "57dfdb7813e4c571530003fc",
+"children": [
+{
+"_id": "57dfdb7813e4c571530003fd",
+"citool_id": "57dfdb7813e4c571530003fc",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        A gastroenterologist must make the definite diagnosis of Ulcerative Colitis based on histopathologic evidence and surgically treated with permanent ileostomy or permanent colostomy.   \r\n                       </p>\r\n                     ",
+"parent_name": "ulcerative-colitis",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdb7813e4c571530003fe",
+"citool_id": "57dfdb7813e4c571530003fc",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed presence of diverticulitis with bowel perforation.    \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "ulcerative-colitis",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdb7813e4c571530003ff",
+"citool_id": "57dfdb7813e4c571530003fc",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed diagnosis of Diverticulitis.     \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "ulcerative-colitis",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Ulcerative Colitis",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 66
+},
+{
+"_id": "57dfdb7813e4c57153000400",
+"children": [
+{
+"_id": "57dfdb7813e4c57153000401",
+"citool_id": "57dfdb7813e4c57153000400",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        A general surgeon must make the definite diagnosis of anorectal impairment with permanent ongoing faecal incontinence. The impairment must be surgically treated with permanent ileostomy.    \r\n                       </p>\r\n                     ",
+"parent_name": "anorectal-impairment",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdb7813e4c57153000402",
+"citool_id": "57dfdb7813e4c57153000400",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed presence of anorectal fistula     \r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "anorectal-impairment",
+"position": null,
+"top_up": "15%"
+}
+],
+"definition": "",
+"name": "Anorectal Impairment",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 67
+},
+{
+"_id": "57dfdb7813e4c57153000403",
+"children": [
+{
+"_id": "57dfdb7813e4c57153000404",
+"citool_id": "57dfdb7813e4c57153000403",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Pancreatic abscess requiring surgical drainage.\r\n                       </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "pancreatic-surgery",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdb7813e4c57153000405",
+"citool_id": "57dfdb7813e4c57153000403",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        The actual undergoing of surgical removal of the pancreas (pancreatectomy).    \r\n                       </p>\r\n                     ",
+"parent_name": "pancreatic-surgery",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdb7813e4c57153000406",
+"citool_id": "57dfdb7813e4c57153000403",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>\r\n                        The actual undergoing of surgical removal of part of the pancreas (partial pancreatectomy).    \r\n                       </p>\r\n                     ",
+"parent_name": "pancreatic-surgery",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Pancreatic Surgery",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 68
+},
+{
+"_id": "57dfdb7813e4c57153000407",
+"children": [
+{
+"_id": "57dfdb7813e4c57153000408",
+"citool_id": "57dfdb7813e4c57153000407",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Receiving a transplant or being on the official South African or International waiting list for a liver transplant.     \r\n                       </p>\r\n                     ",
+"parent_name": "liver-transplant",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Liver Transplant",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 69
+},
+{
+"_id": "57dfdb7813e4c57153000409",
+"children": [
+{
+"_id": "57dfdb7813e4c5715300040a",
+"citool_id": "57dfdb7813e4c57153000409",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        Permanent and irreversible failure of liver function that has resulted in all three (3) of the following:     \r\n                       </p>\r\n                       <ul>\r\n                         <li>Permanent jaundice</li>\r\n                         <li>Ascites</li>\r\n                         <li> Hepatic encephalopathy.</li>\r\n                       </ul>\r\n                       <p>\r\n                         Liver failure secondary to drug or alcohol abuse is excluded.<br>\r\n                         The diagnosis must be confirmed by a medical specialist.\r\n                       </p>\r\n                     ",
+"parent_name": "chronic-liver-failure",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdb7813e4c5715300040b",
+"citool_id": "57dfdb7813e4c57153000409",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>\r\n                        A medical specialist must make the definitive diagnosis of a fulminant hepatic failure that meets three of the following criteria:     \r\n                       </p>\r\n                       <ul>\r\n                         <li>INR&gt;6,5;</li>\r\n                         <li>Hepatic encephalopathy</li>\r\n                         <li>serum bilirubin &gt; 17,6 mg/dL</li>\r\n                       </ul>\r\n                       <p>\r\n                         Liver failure secondary to drug or alcohol abuse is excluded.\r\n                       </p>\r\n                     ",
+"parent_name": "chronic-liver-failure",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Chronic Liver Failure",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 70
+},
+{
+"_id": "57dfdb7813e4c5715300040c",
+"children": [
+{
+"_id": "57dfdb7813e4c5715300040d",
+"citool_id": "57dfdb7813e4c5715300040c",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        Confirmed presence of portal hypertension evidenced by more than 15mmHg pressure in the portal vein and either oesophageal varices, ascites or splenomegaly   \r\n                       </p>\r\n                     ",
+"parent_name": "portal-hypertension",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Portal Hypertension",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 71
+},
+{
+"_id": "57dfdb7813e4c5715300040e",
+"children": [
+{
+"_id": "57dfdb7813e4c5715300040f",
+"citool_id": "57dfdb7813e4c5715300040e",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                       <p>\r\n                        Primary biliary cirrhosis confirmed by a consultant specialist and with appropriate confirmatory hepatic radiological or histological investigations.    \r\n                       </p>\r\n                     ",
+"parent_name": "primary-biliary-cirrhosis",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Primary Biliary Cirrhosis",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 72
+},
+{
+"_id": "57dfdb7913e4c57153000410",
+"children": [
+{
+"_id": "57dfdb7913e4c57153000411",
+"citool_id": "57dfdb7913e4c57153000410",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>\r\n                        Sclerosing cholangitis confirmed by a consultant specialist and with appropriate confirmatory hepatic radiological or histological investigations.    \r\n                       </p>\r\n                     ",
+"parent_name": "sclerosing-cholangitis",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Sclerosing Cholangitis",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 73
+},
+{
+"_id": "57dfdb7913e4c57153000412",
+"children": [
+{
+"_id": "57dfdb7913e4c57153000413",
+"citool_id": "57dfdb7913e4c57153000412",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                     <p>Actual undergoing of surgical excision of the liver (hepatectomy). </p>\r\n                     ",
+"parent_name": "hepatectomy",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdb7913e4c57153000414",
+"citool_id": "57dfdb7913e4c57153000412",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>Actual undergoing of surgical excision of part of the liver (partial hepatectomy). </p>\r\n                     ",
+"parent_name": "hepatectomy",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Hepatectomy",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 74
+},
+{
+"_id": "57dfdb7913e4c57153000415",
+"children": [
+{
+"_id": "57dfdb7913e4c57153000416",
+"citool_id": "57dfdb7913e4c57153000415",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>Actual undergoing of surgical excision of the entire colon (total colectomy). </p>\r\n                     ",
+"parent_name": "colectomy",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfdb7913e4c57153000417",
+"citool_id": "57dfdb7913e4c57153000415",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Actual undergoing of surgical excision of part of the colon (partial colectomy). </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "colectomy",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Colectomy",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 75
+},
+{
+"_id": "57dfdb7913e4c57153000418",
+"children": [
+{
+"_id": "57dfdb7913e4c57153000419",
+"citool_id": "57dfdb7913e4c57153000418",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Actual undergoing of surgical repair of a fistula between the trachea and oesophagus. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "tracheo-oesophageal-fistula",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Tracheo-oesophageal Fistula",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 76
+},
+{
+"_id": "57dfdb7913e4c5715300041a",
+"children": [
+{
+"_id": "57dfdb7913e4c5715300041b",
+"citool_id": "57dfdb7913e4c5715300041a",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Amyloidosis of the liver and spleen as confirmed with appropriate tissue biopsy</p>\r\n                       <em>*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "amyloidosis-of-the-liver-and-spleen",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Amyloidosis of the Liver and Spleen",
+"parent_name": "Gastrointestinal",
+"parent_position": 9,
+"position": 77
+}
+],
+"Auditory": [
+{
+"_id": "57dfdc7713e4c5715300042b",
+"children": [
+{
+"_id": "57dfdc7713e4c5715300042c",
+"citool_id": "57dfdc7713e4c5715300042b",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                     <p>Total and irreversible loss of hearing in both ears as a result of illness or accident. This diagnosis must be supported by audiometric and sound-threshold tests provided by an Ear Nose and Throat (ENT) specialist. Total means \"the loss of at least 90 decibels in all frequencies of hearing\". </p>\r\n                     ",
+"parent_name": "deafness-partial-loss-of-hearing",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdc7713e4c5715300042d",
+"citool_id": "57dfdc7713e4c5715300042b",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                     <p>Total and irreversible loss of hearing in both ears with a loss of 70dB over three frequencies (500, 1000, 2000Hz) in two (2) separate measurements at least six months apart provided by a registered Ear Nose and Throat (ENT) specialist. </p>\r\n                     ",
+"parent_name": "deafness-partial-loss-of-hearing",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfdc7713e4c5715300042e",
+"citool_id": "57dfdc7713e4c5715300042b",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>Total and irreversible loss of hearing in one ear greater than 70Db in two measurements at least 6 months apart as confirmed in terms of audiometry and an Ear, Nose and Throat Specialist.</p>\r\n                     ",
+"parent_name": "deafness-partial-loss-of-hearing",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Deafness / Partial Loss of Hearing",
+"parent_name": "Auditory",
+"parent_position": 10,
+"position": 78
+},
+{
+"_id": "57dfdc7713e4c5715300042f",
+"children": [
+{
+"_id": "57dfdc7713e4c57153000430",
+"citool_id": "57dfdc7713e4c5715300042f",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                     <p>Unequivocal diagnosis of acoustic neuroma as confirmed by a registered Ear Nose and Throat specialist with appropriate radiological including an MRI scan of the affected part of the brain. </p>\r\n                     ",
+"parent_name": "acoustic-neuroma",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Acoustic Neuroma",
+"parent_name": "Auditory",
+"parent_position": 10,
+"position": 79
+},
+{
+"_id": "57dfdc7713e4c57153000431",
+"children": [
+{
+"_id": "57dfdc7713e4c57153000432",
+"citool_id": "57dfdc7713e4c57153000431",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Unequivocal diagnosis of Tympanosclerosis  by a registered Ear Nose and Throat specialist.</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "degenerative-ear-disorders",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdc7713e4c57153000433",
+"citool_id": "57dfdc7713e4c57153000431",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Unequivocal diagnosis of Otosclerosis by a registered Ear Nose and Throat specialist. </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "degenerative-ear-disorders",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Degenerative Ear Disorders",
+"parent_name": "Auditory",
+"parent_position": 10,
+"position": 80
+},
+{
+"_id": "57dfdc7713e4c57153000434",
+"children": [
+{
+"_id": "57dfdc7713e4c57153000435",
+"citool_id": "57dfdc7713e4c57153000434",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Unequivocal diagnosis of Cavernous sinus thrombosis by a registered Ear Nose and Throat specialist. </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "cavernous-sinus-thrombosis",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Cavernous Sinus Thrombosis",
+"parent_name": "Auditory",
+"parent_position": 10,
+"position": 81
+},
+{
+"_id": "57dfdc7713e4c57153000436",
+"children": [
+{
+"_id": "57dfdc7713e4c57153000437",
+"citool_id": "57dfdc7713e4c57153000436",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Surgery to the cochlear or middle ear bones, where the surgery is considered the appropriate and necessary treatment by a registered Ear Nose and Throat specialist. </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "ear-surgery",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Ear Surgery",
+"parent_name": "Auditory",
+"parent_position": 10,
+"position": 82
+},
+{
+"_id": "57dfdc7713e4c57153000438",
+"children": [
+{
+"_id": "57dfdc7713e4c57153000439",
+"citool_id": "57dfdc7713e4c57153000438",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                     <p>Unequivocal diagnosis of osteomyelitis of the sinuses by a registered Ear Nose and Throat specialist. </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "osteomyelitis-of-the-sinuses",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Osteomyelitis of the Sinuses",
+"parent_name": "Auditory",
+"parent_position": 10,
+"position": 83
+}
+],
+"Visual": [
+{
+"_id": "57dfdca313e4c5715300043a",
+"children": [
+{
+"_id": "57dfdca313e4c5715300043b",
+"citool_id": "57dfdca313e4c5715300043a",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                     <p>Blindness is permanent loss of vision in both eyes as a result of illness or accident. Both the diagnosis and the degree of blindness must be ascertained by registered ophthalmologist. This loss of sight must not be correctable with aides or surgery. There must be no light perception in both eyes. </p>\r\n                     ",
+"parent_name": "blindness-partial-loss-of-sight",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdca313e4c5715300043c",
+"citool_id": "57dfdca313e4c5715300043a",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                     <p>Confirmed diagnosis of Bilateral permanent hemianopia or Bilateral optic nerve atrophy by a registered ophthalmologist. </p>\r\n                     ",
+"parent_name": "blindness-partial-loss-of-sight",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfdca313e4c5715300043d",
+"citool_id": "57dfdca313e4c5715300043a",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>Confirmed diagnosis of Retinitis pigmentosa by a registered ophthalmologist. </p>\r\n                     ",
+"parent_name": "blindness-partial-loss-of-sight",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfdca313e4c5715300043e",
+"citool_id": "57dfdca313e4c5715300043a",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>The total and permanent loss of sight in one eye when measured with the use of visual aids. The test must be performed by an ophthalmologist.</p>\r\n                     ",
+"parent_name": "blindness-partial-loss-of-sight",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfdca313e4c5715300043f",
+"citool_id": "57dfdca313e4c5715300043a",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>Unequivocal diagnosis of irreversible hemianopia as confirmed by a registered ophthalmologist. </p>\r\n                     ",
+"parent_name": "blindness-partial-loss-of-sight",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Blindness / Partial Loss of Sight",
+"parent_name": "Visual",
+"parent_position": 11,
+"position": 84
+},
+{
+"_id": "57dfdca313e4c57153000440",
+"children": [
+{
+"_id": "57dfdca313e4c57153000441",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                     <p class=\"red-unbolded\">NOTE: Unequivocal diagnosis of the following diseases of the eyes as confirmed by a registered ophthalmologist with appropriate objective investigations including but not limited to visual acuity tests, MRI scan and visual field examination. </p>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfdca313e4c57153000442",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                     <p>Optic nerve atrophy </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": "15%"
+},
+{
+"_id": "57dfdca313e4c57153000443",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                     <p>Corneal transplant </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": "15%"
+},
+{
+"_id": "57dfdca313e4c57153000444",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Enucleation of an eye</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdca313e4c57153000445",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Macular degeneration </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdca313e4c57153000446",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Optic neuritis</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdca313e4c57153000447",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                     <p>Orbital abscess</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfdca313e4c57153000448",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                     <p>Retinal detachment </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfdca313e4c57153000449",
+"citool_id": "57dfdca313e4c57153000440",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                     <p>Refractive errors not correctable by visual aids resulting in near blindness with visual acuity of at least 20/500 (US) </p>\r\n                     ",
+"parent_name": "other-eye-diseases",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Other Eye Diseases",
+"parent_name": "Visual",
+"parent_position": 11,
+"position": 85
+}
+],
+"Speech": [
+{
+"_id": "57dfdcbc13e4c5715300044a",
+"children": [
+{
+"_id": "57dfdcbc13e4c5715300044b",
+"citool_id": "57dfdcbc13e4c5715300044a",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                     <p>Total and irreversible loss of the ability to speak as a result of disease to the vocal cords. The loss of speech may also be due to disease of a cranial nerve or brain damage to Broca's area. The inability to speak must be established for a continuous period of 12 months. This diagnosis must be supported by medical evidence furnished by an Ear Nose and Throat (ENT) specialist. </p>\r\n                     <p>Exclusions: All psychiatric related causes of loss of speech</p>\r\n                     ",
+"parent_name": "loss-of-speech",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdcbc13e4c5715300044c",
+"citool_id": "57dfdcbc13e4c5715300044a",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                     <p>Total and irreversible loss of the ability to speak as a result of injury. The loss of speech must be as a result of simultaneous traumatic loss or surgical removal of the tongue, larynx and pharynx.         </p>\r\n                     ",
+"parent_name": "loss-of-speech",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdcbc13e4c5715300044d",
+"citool_id": "57dfdcbc13e4c5715300044a",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>Actual undergoing of a total laryngectomy confirmed by an Ear Nose and Throat (ENT) specialist.</p>\r\n                     ",
+"parent_name": "loss-of-speech",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfdcbc13e4c5715300044e",
+"citool_id": "57dfdcbc13e4c5715300044a",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Unequivocal diagnosis of amyloidosis of the tongue confirmed by an Ear Nose and Throat (ENT) specialist.</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "loss-of-speech",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdcbc13e4c5715300044f",
+"citool_id": "57dfdcbc13e4c5715300044a",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                     <p>Confirmed loss of use of more than one third of the tongue furnished by an Ear Nose and Throat (ENT) specialist.</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "loss-of-speech",
+"position": null,
+"top_up": "15%"
+}
+],
+"definition": "",
+"name": "Loss of Speech",
+"parent_name": "Speech",
+"parent_position": 12,
+"position": 86
+}
+],
+"Musculoskeletal": [
+{
+"_id": "57dfdd0013e4c57153000450",
+"children": [
+{
+"_id": "57dfdd0013e4c57153000451",
+"citool_id": "57dfdd0013e4c57153000450",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                     <p>Permanent and complete severance or loss of use of two limbs at or above the wrist or ankle due to injury or disease.</p>\r\n                     ",
+"parent_name": "loss-of-limbs",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdd0013e4c57153000452",
+"citool_id": "57dfdd0013e4c57153000450",
+"citool_income": "No",
+"claim_value": "75%",
+"event_definitions": "\r\n                     <p>The total, permanent and irreversible loss of use of or loss of:</p>\r\n                      <ul>\r\n                      <li>one leg from below the knee and above the ankle OR</li>\r\n                      <li>one arm from below the elbow and above the wrist</li>\r\n                      </ul>\r\n                     ",
+"parent_name": "loss-of-limbs",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfdd0013e4c57153000453",
+"citool_id": "57dfdd0013e4c57153000450",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                     <p>The amputation of, or the complete and permanent loss of motor function of one hand </p>\r\n                     ",
+"parent_name": "loss-of-limbs",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfdd0013e4c57153000454",
+"citool_id": "57dfdd0013e4c57153000450",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>The amputation of, or the complete and permanent loss of motor function of one foot </p>\r\n                     ",
+"parent_name": "loss-of-limbs",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfdd0013e4c57153000455",
+"citool_id": "57dfdd0013e4c57153000450",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Actual undergoing of joint replacement: Hip or knee joint replacement</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "loss-of-limbs",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdd0013e4c57153000456",
+"citool_id": "57dfdd0013e4c57153000450",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Amputation of more than one digit at the MP-joint, fingers or toes,</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "loss-of-limbs",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdd0013e4c57153000457",
+"citool_id": "57dfdd0013e4c57153000450",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                     <p>Amputation of a single digit at the MP-joint of either a finger or toe</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "loss-of-limbs",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfdd0013e4c57153000458",
+"citool_id": "57dfdd0013e4c57153000450",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                     <p>Actual undergoing of any joint replacement surgery excluding the hip or knee</p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "loss-of-limbs",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Loss of Limbs",
+"parent_name": "Musculoskeletal",
+"parent_position": 13,
+"position": 87
+},
+{
+"_id": "57dfdea313e4c57153000469",
+"children": [
+{
+"_id": "57dfdea313e4c5715300046a",
+"citool_id": "57dfdea313e4c57153000469",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                     <p>Total and irreversible loss of use of at least 2 entire limbs due to illness or accident. This condition must be confirmed by a consultant neurologist. </p>\r\n                    <p>Exclusion: Self-inflicted injuries are excluded </p>\r\n                     ",
+"parent_name": "paralysis",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Paralysis",
+"parent_name": "Musculoskeletal",
+"parent_position": 13,
+"position": 88
+},
+{
+"_id": "57dfdea313e4c5715300046b",
+"children": [
+{
+"_id": "57dfdea313e4c5715300046c",
+"citool_id": "57dfdea313e4c5715300046b",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                     <p>Total nasal destruction </p>\r\n                     <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "maxillo-facial-injuries",
+"position": null,
+"top_up": "15%"
+},
+{
+"_id": "57dfdea313e4c5715300046d",
+"citool_id": "57dfdea313e4c5715300046b",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>Actual undergoing of mastoidectomy as confirmed by a Maxilllo-facial surgeon. </p>\r\n                     ",
+"parent_name": "maxillo-facial-injuries",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfdea313e4c5715300046e",
+"citool_id": "57dfdea313e4c5715300046b",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                     <p>Le Forte III and IV fractures treated with facial reconstruction surgery</p>\r\n                     ",
+"parent_name": "maxillo-facial-injuries",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Maxillo-Facial Injuries",
+"parent_name": "Musculoskeletal",
+"parent_position": 13,
+"position": 89
+},
+{
+"_id": "57dfdea313e4c5715300046f",
+"children": [
+{
+"_id": "57dfdea313e4c57153000470",
+"citool_id": "57dfdea313e4c5715300046f",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                     <p class=\"red-unbolded\">NOTE: Unequivocal diagnosis of the following diseases of the musculoskeletal system as confirmed by a registered orthopaedic surgeon with appropriate objective investigations including but not limited to MRI scan. </p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-musculoskeletal-disorders",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfdea313e4c57153000471",
+"citool_id": "57dfdea313e4c5715300046f",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Definitive diagnosis of chronic osteomyelitis  </p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-musculoskeletal-disorders",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdea313e4c57153000472",
+"citool_id": "57dfdea313e4c5715300046f",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Poliomyelitis resulting in permanent paralysis of a limb </p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-musculoskeletal-disorders",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdea313e4c57153000473",
+"citool_id": "57dfdea313e4c5715300046f",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Suture of a major nerve to restore function to a hand or limb</p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-musculoskeletal-disorders",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdea313e4c57153000474",
+"citool_id": "57dfdea313e4c5715300046f",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                     <p>Actual undergoing of decompression laminectomy and or lamiNotomy</p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-musculoskeletal-disorders",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdea313e4c57153000475",
+"citool_id": "57dfdea313e4c5715300046f",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                     <p>Cervical spine instability immediately post trauma treated with traction or emergency spinal surgery</p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-musculoskeletal-disorders",
+"position": null,
+"top_up": "5%"
+},
+{
+"_id": "57dfdea313e4c57153000476",
+"citool_id": "57dfdea313e4c5715300046f",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                     <p>Unequivocal diagYessis of Paget's disease </p>\r\n                      <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "other-musculoskeletal-disorders",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Other Musculoskeletal Disorders",
+"parent_name": "Musculoskeletal",
+"parent_position": 13,
+"position": 90
+},
+{
+"_id": "57dfdea313e4c57153000477",
+"children": [
+{
+"_id": "57dfdea313e4c57153000478",
+"citool_id": "57dfdea313e4c57153000477",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                      <p>Actual diagnosis of muscular dystrophy confirmed by a neurologist which meets all of the following criteria:</p>\r\n                      <ul>\r\n                        <li>Characteristic clinical findings including weakening of certain muscle groups</li>\r\n                          <li>Characteristic electromyogram</li>\r\n                        <li>Positive genetic screening</li>\r\n                        </ul> \r\n                     ",
+"parent_name": "muscular-dystrophy",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Muscular Dystrophy",
+"parent_name": "Musculoskeletal",
+"parent_position": 13,
+"position": 91
+}
+],
+"Trauma": [
+{
+"_id": "57dfdf0313e4c57153000479",
+"children": [
+{
+"_id": "57dfdf0313e4c5715300047a",
+"citool_id": "57dfdf0313e4c57153000479",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>Prolonged hospital admission due to injury resulting in an admission to Intensive Care Unit (ICU) whilst on assisted endotracheal mechanical ventilation for at least 10 (ten) consecutive days. The ICU must be a recognised ICU unit as defined by the Critical Care Society of South Africa.  </p>\r\n                       <p>Exclusions: Continuous Positive Airway Pressure ventilation (CPAP) is not included </p>\r\n                     ",
+"parent_name": "injury-resulting-in-admission-to-icu",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdf0313e4c5715300047b",
+"citool_id": "57dfdf0313e4c57153000479",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>Prolonged hospital admission due to injury resulting in an admission to ICU whilst on assisted endotracheal mechanical ventilation for at least 5 (five) consecutive days. The ICU must be a recognised ICU unit as defined by the Critical Care Society of South Africa.</p>\r\n                       <p>Exclusions: Continuous Positive Airway Pressure ventilation (CPAP) is not included </p>\r\n                     ",
+"parent_name": "injury-resulting-in-admission-to-icu",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Injury Resulting in Admission to ICU",
+"parent_name": "Trauma",
+"parent_position": 14,
+"position": 92
+},
+{
+"_id": "57dfdf0313e4c5715300047c",
+"children": [
+{
+"_id": "57dfdf0313e4c5715300047d",
+"citool_id": "57dfdf0313e4c5715300047c",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>Confirmed traumatic brain injury caused by external physical force. The diagnosis must be made by a registered specialist and confirmed on brain imaging.  </p>\r\n                       <p>The injury must result in the permanent inability to perform (whether aided or unaided) at least three (3) Activities of Daily Living (set out at the end of Appendix F) as assessed more than three (3) months after the traumatic brain injury. The external physical force that injured the brain must occur after the date the policy goes into force or following the date of re-instatement whichever is later.</p>\r\n                     ",
+"parent_name": "traumatic-brain-injury",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdf0313e4c5715300047e",
+"citool_id": "57dfdf0313e4c5715300047c",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Cerebral oedema requiring in hospital care in an accredited Intensive Care Unit. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "traumatic-brain-injury",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Traumatic Brain Injury",
+"parent_name": "Trauma",
+"parent_position": 14,
+"position": 93
+},
+{
+"_id": "57dfdf0313e4c5715300047f",
+"children": [
+{
+"_id": "57dfdf0313e4c57153000480",
+"citool_id": "57dfdf0313e4c5715300047f",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>There must be third-degree burns with scarring that cover at least 20% of the body's surface area. A surgeon must confirm the diagnosis and the total area involved using standardized, clinically accepted, body surface area charts</p>\r\n                     ",
+"parent_name": "burns",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdf0313e4c57153000481",
+"citool_id": "57dfdf0313e4c5715300047f",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>There must be third-degree burns with scarring that cover at least 10-20% of the body's surface area. A surgeon must confirm the diagnosis and the total area involved using standardized, clinically accepted, body surface area charts</p>\r\n                     ",
+"parent_name": "burns",
+"position": null,
+"top_up": "100%"
+},
+{
+"_id": "57dfdf0313e4c57153000482",
+"citool_id": "57dfdf0313e4c5715300047f",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                      <p>There must be third-degree burns with scarring that involve inhalation injuries or cover at least one of these areas of the body:</p>                                                                   \r\n                      <ul>\r\n                      <li>the face; or </li>   \r\n                      <li>both hands; or  </li> \r\n                      <li> both feet.    </li>\r\n                      </ul>   \r\n                       <p>A surgeon must confirm the diagnosis and the total area involved using standardized, clinically accepted, body surface area charts.</p>\r\n                     ",
+"parent_name": "burns",
+"position": null,
+"top_up": "25%"
+}
+],
+"definition": "",
+"name": "Burns",
+"parent_name": "Trauma",
+"parent_position": 14,
+"position": 94
+},
+{
+"_id": "57dfdf0313e4c57153000483",
+"children": [
+{
+"_id": "57dfdf0313e4c57153000484",
+"citool_id": "57dfdf0313e4c57153000483",
+"citool_income": "",
+"claim_value": "",
+"event_definitions": "\r\n                       <p class=\"red-unbolded\">NOTE: Unequivocal diagnosis of the following trauma related injuries as confirmed by the relevant medical specialist with appropriate investigations including but not limited to MRI scan and X-ray. </p>\r\n                     ",
+"parent_name": "orthopaedic-procedures",
+"position": null,
+"top_up": ""
+},
+{
+"_id": "57dfdf0313e4c57153000485",
+"citool_id": "57dfdf0313e4c57153000483",
+"citool_income": "No",
+"claim_value": "25%",
+"event_definitions": "\r\n                       <p>Open book fracture of the pelvis with a completely severed symphysis pubis</p>\r\n                     ",
+"parent_name": "orthopaedic-procedures",
+"position": null,
+"top_up": "25%"
+},
+{
+"_id": "57dfdf0313e4c57153000486",
+"citool_id": "57dfdf0313e4c57153000483",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Actual suturing of a major nerve </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "orthopaedic-procedures",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf0313e4c57153000487",
+"citool_id": "57dfdf0313e4c57153000483",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Hospitalization for a fractured spine treated with traction </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "orthopaedic-procedures",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf0313e4c57153000488",
+"citool_id": "57dfdf0313e4c57153000483",
+"citool_income": "No",
+"claim_value": "5%",
+"event_definitions": "\r\n                       <p>Confirmed presence of an orbital floor fracture </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "orthopaedic-procedures",
+"position": null,
+"top_up": "5%"
+}
+],
+"definition": "",
+"name": "Orthopaedic Procedures",
+"parent_name": "Trauma",
+"parent_position": 14,
+"position": 95
+}
+],
+"Endocrine": [
+{
+"_id": "57dfdf1c13e4c57153000489",
+"children": [
+{
+"_id": "57dfdf1c13e4c5715300048a",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Diabetes Mellitus Type I treated with injectable insulin for a period longer than 6 continuous months</p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c5715300048b",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Confirmed hospitalization for Type 1 diabetic coma. Only one claim event is payable under this definition. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c5715300048c",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of diabetes insipidus by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c5715300048d",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of Addison's disease or acute adrenal crisis by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c5715300048e",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of Conn's syndrome by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c5715300048f",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of Cushing's syndrome by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000490",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of Shehan's syndrome by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000491",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of Thyrotoxic crisis by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000492",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of Simmond's disease by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000493",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of pheochromocytoma by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000494",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of Glycogen storage disease by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000495",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of Acromegaly by a registered endocrinologist. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000496",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>The actual undergoing of adrenalectomy as performed by a registered general surgeon. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000497",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>The actual undergoing of hypophysectomy as performed by a registered neurosurgeon. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000498",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Unequivocal diagnosis of insulinoma as confirmed by both radiological imaging as well as tissue biopsy.  </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+},
+{
+"_id": "57dfdf1c13e4c57153000499",
+"citool_id": "57dfdf1c13e4c57153000489",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>The actual undergoing of parathyroidectomy as performed by a registered surgeon. </p>\r\n                       <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "endocrine-conditions",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Endocrine Conditions",
+"parent_name": "Endocrine",
+"parent_position": 15,
+"position": 96
+}
+],
+"Catch-all": [
+{
+"_id": "57dfdf5413e4c5715300049a",
+"children": [
+{
+"_id": "57dfdf5413e4c5715300049b",
+"citool_id": "57dfdf5413e4c5715300049a",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>Any disease or injury that is permanent, where the severity of the disease must result in an inability of the insured to perform (whether aided or unaided) at least 3 Activities of Daily Living, as supplied in at the end of Appendix F, for a continuous period of at least 6 months. A payment will only be made under this category if the condition suffered from does not qualify for a claim payment under any of the other disease covered by this product. </p>\r\n                      <p>Exclusion: Psychiatric illnesses will not be covered under this benefit category.</p>\r\n                     ",
+"parent_name": "loss-of-independent-existence",
+"position": null,
+"top_up": "Already at 100%"
+},
+{
+"_id": "57dfdf5413e4c5715300049c",
+"citool_id": "57dfdf5413e4c5715300049a",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                       <p>Any disease or injury that is permanent, where the severity of the disease must result in an inability of the insured to perform (whether aided or unaided) at least 2 Activities of Daily Living, as supplied in at the end of Appendix F, for a continuous period of at least 3 months. A payment will only be made under this category if the condition suffered from does not qualify for a claim payment under any of the other disease covered by this product. </p>\r\n                      <p>Exclusion: Psychiatric illnesses will not be covered under this benefit category.</p>\r\n                     ",
+"parent_name": "loss-of-independent-existence",
+"position": null,
+"top_up": "100%"
+}
+],
+"definition": "",
+"name": "Loss of Independent Existence",
+"parent_name": "Catch-all",
+"parent_position": 16,
+"position": 97
+},
+{
+"_id": "57dfdf5413e4c5715300049d",
+"children": [
+{
+"_id": "57dfdf5413e4c5715300049e",
+"citool_id": "57dfdf5413e4c5715300049d",
+"citool_income": "Yes",
+"claim_value": "100%",
+"event_definitions": "\r\n                       <p>Any terminal illness which in the opinion of FMI is highly likely to lead to the end of life within the next 12 months. </p>\r\n                     ",
+"parent_name": "terminal-illness-benefit",
+"position": null,
+"top_up": "Already at 100%"
+}
+],
+"definition": "",
+"name": "Terminal Illness Benefit",
+"parent_name": "Catch-all",
+"parent_position": 16,
+"position": 98
+},
+{
+"_id": "57dfdf5413e4c5715300049f",
+"children": [
+{
+"_id": "57dfdf5413e4c571530004a0",
+"citool_id": "57dfdf5413e4c5715300049f",
+"citool_income": "No",
+"claim_value": "15%",
+"event_definitions": "\r\n                       <p>Upon the event that the insured's total hospital account over any consecutive 12 month period is more than the threshold amount and the hospitalization/s is/are determined to be medically necessary by FMI. </p>\r\n                        <p>\r\n                          The threshold amount for any claim up until the end of the year 2017 is R250,000 (two hundred and fifty thousand rands only). For claims after 2017, the threshold amount is R250,000, increased by the Consumer Price Index (CPI) plus 3% for each year after 2017. The CPI percentage that applies for each year after 2017 is the published CPI percentage as at 1 January of that year. </p>\r\n\r\n                          <p>We may adjust the threshold amount calculation from time to time and this will be communicated to you.</p>\r\n\r\n                          <p>Any hospital account for the treatment of an illness, condition or accident for which you had a successful claim under a different Critical Illness on this benefit will be ignored for the purpose of this benefit.</p>\r\n\r\n                          <p>This benefit pays out a maximum of two times over the lifetime of this policy. Once you claim for this Critical Illness, all hospital accounts for the insured's hospitalisation on the date of claim and earlier are ignored for future claims. </p>\r\n\r\n                          <p>A hospital for the purpose of this benefit is an institution which is:</p>\r\n                          <ul>\r\n                          <li>licensed with the appropriate South African body established for the indoor provision of allopathic (western) treatment of sick or injured people that provides the following facilities</li>\r\n                           <li>a minimum of ten (10) patient beds</li>\r\n                          <li>fully equipped operating theatre of its own where surgical operations are carried out</li>\r\n                          <li>fully qualified nursing staff under its employment 24 hours a day and</li>\r\n                          <li>fully qualified physician in supervision 24 hours a day</li>\r\n                          <li>maintains a proper medical record for each patient </li>\r\n                          </ul>\r\n\r\n                          <p>The accounts for hospitalization due to the following are explicitly excluded:</p>\r\n                          <ul>\r\n                          <li>treatment of alcoholism or drug abuse or any condition caused by the over use of alcohol or the use of drugs prescribed or otherwise</li>\r\n                          <li>treatment of any psychiatric or mental illness</li>\r\n                          <li>any treatment of obesity</li>\r\n                          <li>the donation of an organ</li>\r\n                          <li>failure to seek or follow medical advice</li>\r\n                          <li>pregnancy or childbirth or any complications of pregnancy or childbirth including the termination of pregnancy</li>\r\n                          <li>investigation into or the treatment of infertility or the inability to conceive or any form of assisted reproduction or for contraception or sterilisation (or its reversal) or impotence or gender reassignment</li>\r\n                          <li>treatment received before the inception of the policy or after its expiry or for any period for which you have not paid premium</li>\r\n                          </ul>\r\n                          <em class=\"red-unbolded\">*Only available if Extender Option Added</em>\r\n                     ",
+"parent_name": "hospitalisation-benefit",
+"position": null,
+"top_up": "15%"
+}
+],
+"definition": "",
+"name": "Hospitalisation Benefit",
+"parent_name": "Catch-all",
+"parent_position": 16,
+"position": 99
+}
+],
+"Additional Child Critical Illness Conditions": [
+{
+"_id": "57dfdfdd13e4c571530004a1",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004a2",
+"citool_id": "57dfdfdd13e4c571530004a1",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>The undergoing of open-heart valve surgery with a thoracotomy performed to replace or repair one or more heart valve(s), as a consequence of defects in, abnormalities of, or disease-affected cardiac valve(s). The surgery must be considered medically necessary by a consulting cardiologist and supported by appropriate investigations.</p>\r\n                     ",
+"parent_name": "open-heart-valve-surgery",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Open-heart valve surgery",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 100
+},
+{
+"_id": "57dfdfdd13e4c571530004a3",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004a4",
+"citool_id": "57dfdfdd13e4c571530004a3",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Definitive diagnosis of Hirschsprung's disease, a congenital disease causing debilitating constipation, as confirmed by appropriate medical specialist.</p>\r\n                     ",
+"parent_name": "hirschsprung-s-disease",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Hirschsprung's disease",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 101
+},
+{
+"_id": "57dfdfdd13e4c571530004a5",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004a6",
+"citool_id": "57dfdfdd13e4c571530004a5",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                        <p>The occurrence of Poliomyelitis where the following conditions are met:</p>\r\n                        <ul>\r\n                          <li>Poliovirus is identified as the cause; and</li>\r\n                          <li>Paralysis of the limb muscles or respiratory muscles must be present and persist for at least 3 months as confirmed by a consultant neurologist.</li>\r\n                        </ul>\r\n                        <p>Other causes of paralysis such as Guillain-Barre syndrome are specifically excluded.</p>\r\n                     ",
+"parent_name": "poliomyelitis-with-permanent-paralysis",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Poliomyelitis with permanent paralysis",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 102
+},
+{
+"_id": "57dfdfdd13e4c571530004a7",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004a8",
+"citool_id": "57dfdfdd13e4c571530004a7",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Definitive diagnosis of congenital inability to metabolize amino acids as confirmed by a suitable qualified medical specialist.</p>\r\n                     ",
+"parent_name": "disorders-of-amino-acid-metabolism",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Disorders of amino acid metabolism",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 103
+},
+{
+"_id": "57dfdfdd13e4c571530004a9",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004aa",
+"citool_id": "57dfdfdd13e4c571530004a9",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Definitive diagnosis of juvenile rheumatoid arthritis by a rheumatologist with age at onset less than 16 years and large joint symptoms persisting for at least 3 months.</p>\r\n                     ",
+"parent_name": "juvenile-rheumatoid-arthritis",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Juvenile rheumatoid arthritis",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 104
+},
+{
+"_id": "57dfdfdd13e4c571530004ab",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004ac",
+"citool_id": "57dfdfdd13e4c571530004ab",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>Definitive diagnosis of septic arthritis that meets the following Kocher criteria:</p>\n<p>\r\n                      </p>\n<ul>\r\n                      <li>inability to tolerate weight bearing;</li>\r\n                      <li>fever greater than 38.5&Acirc;&deg; C,,</li>\r\n                      <li>ESR (erythrocyte sedimentation rate) in excess of 40 mm/hour and</li>\r\n                      <li>WBC (White blood cell count) greater than 12,000 cells/mm3.</li>\r\n                     </ul>",
+"parent_name": "septic-arthritis",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Septic arthritis",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 105
+},
+{
+"_id": "57dfdfdd13e4c571530004ad",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004ae",
+"citool_id": "57dfdfdd13e4c571530004ad",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>A primary and unexplained increase in pulmonary artery pressure causing signs of right heart strain and failure. There must be permanent irreversible physical impairment to the degree of at least Class IV of the New York Heart Association Classification of cardiac impairment. Pulmonary hypertension associated with lung disease, chronic hypoventilation, pulmonary thromboembolic disease, diseases of the left side of the heart and congenital heart disease are specifically excluded. The diagnosis of primary pulmonary hypertension needs to be made by a cardiologist or a specialist in respiratory medicine and needs to be supported by data provided at cardiac catherisation.</p>\r\n                       <p>The diagnosis must be supported by all three (3) of the following criteria:</p>\r\n                      <ol>\r\n                        <li> Mean pulmonary artery pressure &gt; 40 mmHG; and </li> \r\n                        <li> Pulmonary vascular resistance &gt; 3 (mmHg/L)/min; and</li>\r\n                        <li> Normal pulmonary wedge pressure &lt; 15 mmHg. </li>\r\n                        </ol>\r\n                     ",
+"parent_name": "primary-pulmonary-hypertension",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Primary Pulmonary Hypertension",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 106
+},
+{
+"_id": "57dfdfdd13e4c571530004af",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004b0",
+"citool_id": "57dfdfdd13e4c571530004af",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                        Diabetes Type I or Juvenile diabetes as diagnosed by a registered endocrinologist. The diabetes must be treated with at least daily insulin injections for a period of no less than six months.\r\n                         </p>\r\n                     ",
+"parent_name": "type-1-diabetes-mellitus",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Type 1 diabetes mellitus",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 107
+},
+{
+"_id": "57dfdfdd13e4c571530004b1",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004b2",
+"citool_id": "57dfdfdd13e4c571530004b1",
+"citool_income": "No",
+"claim_value": "10%",
+"event_definitions": "\r\n                       <p>\r\n                         Definitive diagnosis of congenital heart disease which has resulted in a structural defect. The defect must be surgically corrected through open heart surgery.\r\n                         </p>\r\n                     ",
+"parent_name": "surgical-correction-of-congenital-heart-disease",
+"position": null,
+"top_up": "10%"
+}
+],
+"definition": "",
+"name": "Surgical correction of congenital heart disease",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 108
+},
+{
+"_id": "57dfdfdd13e4c571530004b3",
+"children": [
+{
+"_id": "57dfdfdd13e4c571530004b4",
+"citool_id": "57dfdfdd13e4c571530004b3",
+"citool_income": "No",
+"claim_value": "50%",
+"event_definitions": "\r\n                        <p>\r\n                         Confirmed diagnosis of Acute Lymphoblastic Leukaemia by an Oncologist\r\n                        </p>\r\n                     ",
+"parent_name": "acute-lymphoblastic-leukaemia",
+"position": null,
+"top_up": "50%"
+}
+],
+"definition": "",
+"name": "Acute Lymphoblastic Leukaemia",
+"parent_name": "Additional Child Critical Illness Conditions",
+"parent_position": 17,
+"position": 109
+}
+]
+}
